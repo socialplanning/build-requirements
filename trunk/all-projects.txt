@@ -3,7 +3,8 @@ fassembler:topp
 fassembler:supervisor
 fassembler:deliverance
 fassembler:cabochon
-fassembler:twirlip
+# Not currently working:
+#fassembler:twirlip
 fassembler:opencore
 # Maybe only for the dev build?:
 fassembler:zeo
