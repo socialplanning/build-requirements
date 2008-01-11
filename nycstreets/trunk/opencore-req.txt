@@ -12,4 +12,4 @@ ClockServer
 -e https://svn.openplans.org/svn/topp.featurelets/trunk
 -e https://svn.openplans.org/svn/topp.utils/trunk
 -e https://svn.openplans.org/svn/WSSEAuth/trunk
--e https://svn.openplans.org/svn/sputnik/trunk
+-e https://svn.openplans.org/svn/sputnik/branches/people-projects-map
