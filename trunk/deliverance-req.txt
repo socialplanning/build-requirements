@@ -4,6 +4,7 @@
 -e http://codespeak.net/svn/z3/deliverance/trunk
 -e https://svn.openplans.org/svn/eyvind/trunk
 -e https://svn.openplans.org/svn/signedheaders/trunk
+-e http://svn.pythonpaste.org/Paste/WSGIFilter/trunk
 PasteScript
 lxml>=1.2,<2.0a
 # Other versions of nose can get installed accidentally and cause conflicts:
