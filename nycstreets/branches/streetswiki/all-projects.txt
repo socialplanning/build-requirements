@@ -1,0 +1,13 @@
+# This lists all the projects that make up the standard build
+fassembler:topp
+fassembler:supervisor
+fassembler:deliverance
+fassembler:cabochon
+# Not currently working:
+#fassembler:twirlip
+fassembler:opencore
+# Maybe only for the dev build?:
+fassembler:zeo
+fassembler:tasktracker
+fassembler:wordpress
+fassembler:scripttranscluder
