@@ -11,6 +11,7 @@ ClockServer
 -e https://svn.openplans.org/svn/topp.utils/trunk
 -e https://svn.openplans.org/svn/WSSEAuth/trunk
 -e https://svn.openplans.org/svn/sputnik/branches/woonerf
+-e https://svn.openplans.org/svn/StreetsWiki/trunk
 
 zinstall_packages = sputnik
                     StreetsWiki
