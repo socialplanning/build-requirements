@@ -14,4 +14,4 @@ ClockServer
 -e https://svn.openplans.org/svn/StreetsWiki/trunk
 
 zinstall_packages = sputnik
-                    StreetsWiki
+                    streetswiki
