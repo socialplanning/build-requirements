@@ -1,4 +1,3 @@
-topp.utils>=0.3.0
 -Z
 -f https://svn.openplans.org/eggs/
 -f http://dist.repoze.org/PIL-1.1.6.tar.gz
