@@ -13,4 +13,3 @@ ClockServer
 -e https://svn.openplans.org/svn/sputnik/tags/0.9.7.6a
 
 zinstall_packages = sputnik
-                    streetswiki
