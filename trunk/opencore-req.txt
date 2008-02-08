@@ -10,3 +10,6 @@ ClockServer
 -e https://svn.openplans.org/svn/topp.utils/trunk
 -e https://svn.openplans.org/svn/WSSEAuth/trunk
 threadframe>=0.2
+
+opencore_site_id = 'openplans'
+opencore_site_title = 'NYCstreets'

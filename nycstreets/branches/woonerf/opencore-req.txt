@@ -2,7 +2,6 @@
 -f https://svn.openplans.org/eggs/
 -f http://dist.repoze.org/PIL-1.1.6.tar.gz
 PIL
-http://dist.repoze.org/PIL-1.1.6.tar.gz
 -f https://svn.openplans.org/svn/vendor/ClockServer/openplans/#egg=ClockServer-0.1
 ClockServer
 -f https://svn.openplans.org/eggs/twill-0.9.tar.gz#egg=twill
@@ -15,3 +14,6 @@ ClockServer
 
 zinstall_packages = sputnik
                     streetswiki
+
+opencore_site_id = 'openplans'
+opencore_site_title = 'NYCstreets'

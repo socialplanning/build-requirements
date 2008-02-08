@@ -1,10 +1,7 @@
 -Z
 -f https://svn.openplans.org/eggs/
-## FIXME: this would be ideal:
-#-f http://dist.repoze.org/PIL-1.1.6.tar.gz
-#PIL
-## But this works (but reinstalls each time):
-http://dist.repoze.org/PIL-1.1.6.tar.gz
+-f http://dist.repoze.org/PIL-1.1.6.tar.gz
+PIL
 -f https://svn.openplans.org/svn/vendor/ClockServer/openplans/#egg=ClockServer-0.1
 ClockServer
 -f https://svn.openplans.org/eggs/twill-0.9.tar.gz#egg=twill
@@ -14,3 +11,8 @@ ClockServer
 -e https://svn.openplans.org/svn/WSSEAuth/trunk
 -e https://svn.openplans.org/svn/sputnik/branches/people-projects-map
 -e https://svn.openplans.org/svn/ZCMLLoader/trunk
+
+zinstall_packages = sputnik
+
+opencore_site_id = 'openplans'
+opencore_site_title = 'NYCstreets'
