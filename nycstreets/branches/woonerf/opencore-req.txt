@@ -16,5 +16,5 @@ ClockServer
 zinstall_packages = sputnik
                     streetswiki
 
-opencore_site_id = 'openplans'
-opencore_site_title = 'NYCstreets'
+opencore_site_id = openplans
+opencore_site_title = NYCstreets
