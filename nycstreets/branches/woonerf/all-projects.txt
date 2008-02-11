@@ -7,6 +7,5 @@ fassembler:twirlip
 fassembler:opencore
 # Maybe only for the dev build?:
 fassembler:zeo
-fassembler:tasktracker
 fassembler:wordpress
 fassembler:scripttranscluder
