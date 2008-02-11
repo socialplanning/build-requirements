@@ -6,6 +6,7 @@ PIL
 ClockServer
 -f https://svn.openplans.org/eggs/twill-0.9.tar.gz#egg=twill
 -e https://svn.openplans.org/svn/opencore/trunk
+-e https://svn.openplans.org/svn/CabochonClient/trunk
 -e https://svn.openplans.org/svn/topp.featurelets/trunk
 -e https://svn.openplans.org/svn/topp.utils/trunk
 -e https://svn.openplans.org/svn/WSSEAuth/trunk
