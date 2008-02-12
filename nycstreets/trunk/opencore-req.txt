@@ -15,7 +15,7 @@ ClockServer
 -e https://svn.openplans.org/svn/ZCMLLoader/trunk
 
 zinstall_packages = sputnik
-                    streetswiki
+                    StreetsWiki
 
 opencore_site_id = openplans
 opencore_site_title = NYCstreets
