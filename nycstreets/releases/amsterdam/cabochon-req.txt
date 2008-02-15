@@ -1,4 +1,4 @@
 -f https://svn.openplans.org/eggs
--e https://svn.openplans.org/svn/Cabochon/trunk
+-e https://svn.openplans.org/svn/deployments/livable-streets/2008-02-11-Amsterdam/cabochon/
 PasteScript
 mysql-python
