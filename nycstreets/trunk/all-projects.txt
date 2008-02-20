@@ -8,3 +8,4 @@ fassembler:opencore
 fassembler:zeo
 fassembler:wordpress
 fassembler:scripttranscluder
+fassembler:nymap
