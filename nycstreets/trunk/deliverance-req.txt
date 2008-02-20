@@ -6,6 +6,7 @@
 -e https://svn.openplans.org/svn/eyvind/trunk
 -e https://svn.openplans.org/svn/signedheaders/trunk
 PasteScript
-lxml>=1.2,<2.0a
+cython
+-e http://codespeak.net/svn/lxml/tag/lxml-1.3.6
 # Other versions of nose can get installed accidentally and cause conflicts:
 nose>=0.9.3
