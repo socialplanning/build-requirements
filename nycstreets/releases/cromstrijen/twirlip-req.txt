@@ -1,7 +1,7 @@
 -f https://svn.openplans.org/eggs
 # This avoids a version conflict later:
 decorator>=2.1.0
--e https://svn.openplans.org/svn/deployments/livable-streets/2008-02-15-Breda/Twirlip/#egg=Twirlip
--e https://svn.openplans.org/svn/deployments/livable-streets/2008-02-15-Breda/cookieauth/#egg=cookieauth
+-e https://svn.openplans.org/svn/deployments/livable-streets/2008-02-22-Cromstrijen/Twirlip/#egg=Twirlip
+-e https://svn.openplans.org/svn/deployments/livable-streets/2008-02-22-Cromstrijen/cookieauth/#egg=cookieauth
 PasteScript
 mysql-python
