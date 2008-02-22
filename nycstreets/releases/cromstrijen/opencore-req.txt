@@ -14,7 +14,7 @@ ClockServer
 -e https://svn.openplans.org/svn/deployments/livable-streets/2008-02-22-Cromstrijen/StreetsWiki/#egg=StreetsWiki
 
 zinstall_packages = sputnik
-                    StreetsWiki
+                    streetswiki
 
 opencore_site_id = openplans
 opencore_site_title = Your Streets
