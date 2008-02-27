@@ -19,4 +19,4 @@ zinstall_packages = sputnik
 opencore_site_id = openplans
 opencore_site_title = Your Streets
 
-disable_tasktracker
+disable_tasktracker = true
