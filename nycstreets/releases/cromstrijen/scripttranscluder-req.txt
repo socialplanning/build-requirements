@@ -1,3 +1,3 @@
 -f https://svn.openplans.org/eggs
--e https://svn.openplans.org/svn/deployments/livable-streets/2008-02-22-Cromstrijen/ScriptTranscluder/#egg=ScriptTranscluder
+-e https://svn.openplans.org/svn/deployments/livable-streets/cromstrijen/ScriptTranscluder/#egg=ScriptTranscluder
 PasteScript

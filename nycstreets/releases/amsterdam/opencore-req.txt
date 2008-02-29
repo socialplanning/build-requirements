@@ -5,13 +5,13 @@ PIL
 -f https://svn.openplans.org/svn/vendor/ClockServer/openplans/#egg=ClockServer-0.1
 ClockServer
 -f https://svn.openplans.org/eggs/twill-0.9.tar.gz#egg=twill
--e https://svn.openplans.org/svn/deployments/livable-streets/2008-02-11-Amsterdam/opencore/
--e https://svn.openplans.org/svn/deployments/livable-streets/2008-02-11-Amsterdam/cabochonclient/
--e https://svn.openplans.org/svn/deployments/livable-streets/2008-02-11-Amsterdam/topp.featurelets/
--e https://svn.openplans.org/svn/deployments/livable-streets/2008-02-11-Amsterdam/topp.utils/
--e https://svn.openplans.org/svn/deployments/livable-streets/2008-02-11-Amsterdam/wsseauth/
--e https://svn.openplans.org/svn/deployments/livable-streets/2008-02-11-Amsterdam/sputnik/
--e https://svn.openplans.org/svn/deployments/livable-streets/2008-02-11-Amsterdam/streetswiki/
+-e https://svn.openplans.org/svn/deployments/livable-streets/amsterdam/opencore/
+-e https://svn.openplans.org/svn/deployments/livable-streets/amsterdam/cabochonclient/
+-e https://svn.openplans.org/svn/deployments/livable-streets/amsterdam/topp.featurelets/
+-e https://svn.openplans.org/svn/deployments/livable-streets/amsterdam/topp.utils/
+-e https://svn.openplans.org/svn/deployments/livable-streets/amsterdam/wsseauth/
+-e https://svn.openplans.org/svn/deployments/livable-streets/amsterdam/sputnik/
+-e https://svn.openplans.org/svn/deployments/livable-streets/amsterdam/streetswiki/
 
 zinstall_packages = sputnik
                     streetswiki
