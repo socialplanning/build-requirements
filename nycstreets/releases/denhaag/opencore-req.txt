@@ -20,3 +20,4 @@ opencore_site_id = openplans
 opencore_site_title = YourStreets
 
 disable_tasktracker = true
+ftests_path = opencore/src/sputnik/ftests
