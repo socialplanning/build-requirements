@@ -4,8 +4,8 @@ fassembler:supervisor
 fassembler:deliverance
 fassembler:cabochon
 fassembler:twirlip
+fassembler:wordpress
 fassembler:opencore
 fassembler:zeo
-fassembler:wordpress
 fassembler:scripttranscluder
 fassembler:nymap
