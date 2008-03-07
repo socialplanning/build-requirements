@@ -4,9 +4,8 @@ fassembler:supervisor
 fassembler:deliverance
 fassembler:cabochon
 fassembler:twirlip
-fassembler:opencore
-# Maybe only for the dev build?:
-fassembler:zeo
 fassembler:tasktracker
 fassembler:wordpress
+fassembler:opencore
+fassembler:zeo
 fassembler:scripttranscluder
