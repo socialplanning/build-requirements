@@ -17,7 +17,9 @@ zinstall_packages = sputnik
                     streetswiki
 
 opencore_site_id = openplans
-opencore_site_title = YourStreets
+opencore_site_title = Livable Streets
+email_from_address = greetings@livablestreets.com
+mailing_list_fqdn = lists.livablestreets.com
 
 disable_tasktracker = true
 ftests_path = opencore/src/sputnik/ftests
