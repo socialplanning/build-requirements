@@ -6,20 +6,20 @@ PIL
 ClockServer
 -f https://svn.openplans.org/eggs/twill-0.9.tar.gz#egg=twill
 -e https://svn.openplans.org/svn/opencore/trunk
--e https://svn.openplans.org/svn/CabochonClient/trunk
 -e https://svn.openplans.org/svn/topp.featurelets/trunk
 -e https://svn.openplans.org/svn/topp.utils/trunk
 -e https://svn.openplans.org/svn/WSSEAuth/trunk
 -e https://svn.openplans.org/svn/sputnik/trunk
 -e https://svn.openplans.org/svn/StreetsWiki/trunk
+-e https://svn.openplans.org/svn/ZCMLLoader/trunk
 
 zinstall_packages = sputnik
                     streetswiki
+                    zcmlloader
 
 opencore_site_id = openplans
 opencore_site_title = Livable Streets
 email_from_address = greetings@livablestreets.com
 mailing_list_fqdn = lists.livablestreets.com
 
-disable_tasktracker = true
 ftests_path = opencore/src/sputnik/ftests
