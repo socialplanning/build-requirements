@@ -1,3 +1,1 @@
 zopectl_scripts = src/StreetsWiki/zscript/add_streetswiki.py
-streetsblog_uri = http://stage.streetsblog.org
-streetfilms_uri = http://stage.streetfilms.org
