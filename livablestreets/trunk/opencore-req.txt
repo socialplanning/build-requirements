@@ -12,6 +12,7 @@ ClockServer
 -e https://svn.openplans.org/svn/sputnik/trunk
 -e https://svn.openplans.org/svn/StreetsWiki/trunk
 -e https://svn.openplans.org/svn/ZCMLLoader/trunk
+-e https://svn.openplans.org/svn/fassembler/configparser
 
 zinstall_packages = sputnik
                     streetswiki
