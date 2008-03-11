@@ -2,7 +2,7 @@
 # Transcluder needs this, and the link isn't picked up right be easy_install:
 -f http://superb-west.dl.sourceforge.net/sourceforge/pyavl/pyavl-1.1.tar.gz#egg=pyavl-dev
 -e http://codespeak.net/svn/z3/deliverance/tags/0.1.2/#egg=deliverance
--e http://codespeak.net/svn/z3/deliverance/DeliveranceVHoster/tags/0.1.1/#egg=deliverancevhoster
+-e http://codespeak.net/svn/z3/deliverance/DeliveranceVHoster/tags/0.1.2/#egg=deliverancevhoster
 -e https://svn.openplans.org/svn/deployments/livable-streets/eindhoven/eyvind/#egg=eyvind
 -e https://svn.openplans.org/svn/deployments/livable-streets/eindhoven/signedheaders/#egg=signedheaders
 PasteScript
