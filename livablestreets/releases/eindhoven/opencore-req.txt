@@ -12,6 +12,7 @@ ClockServer
 -e https://svn.openplans.org/svn/deployments/livable-streets/eindhoven/sputnik/#egg=sputnik
 -e https://svn.openplans.org/svn/deployments/livable-streets/eindhoven/StreetsWiki/#egg=StreetsWiki
 -e https://svn.openplans.org/svn/deployments/livable-streets/eindhoven/ZCMLLoader/#egg=ZCMLLoader
+-e https://svn.openplans.org/svn/deployments/livable-streets/eindhoven/oc-feed/#egg=oc-feed
 
 zinstall_packages = sputnik
                     streetswiki
