@@ -13,6 +13,7 @@ ClockServer
 -e https://svn.openplans.org/svn/deployments/livable-streets/groningen/StreetsWiki/#egg=StreetsWiki
 -e https://svn.openplans.org/svn/deployments/livable-streets/groningen/ZCMLLoader/#egg=ZCMLLoader
 -e https://svn.openplans.org/svn/deployments/livable-streets/groningen/oc-feed/#egg=oc-feed
+-e https://svn.openplans.org/svn/deployments/livable-streets/groningen/configparser/#egg=configparser
 
 zinstall_packages = sputnik
                     streetswiki
