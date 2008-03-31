@@ -1,1 +1,2 @@
 projtxt = group
+projprefs = Manage
