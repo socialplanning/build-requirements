@@ -11,4 +11,5 @@ cython
 # Other versions of nose can get installed accidentally and cause conflicts:
 nose>=0.9.3
 
-default_theme_uri = http://woonerf.livablestreets.com/theme.html
+# XXX change this to http://www.livablestreets.com/theme.html once we have a theme
+default_theme_uri = /
