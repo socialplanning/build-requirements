@@ -1,2 +1,3 @@
 -f https://svn.openplans.org/eggs/
-zope.interface
+twisted>=8.0.1
+buildbot>=0.7.7
