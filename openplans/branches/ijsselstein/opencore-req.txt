@@ -12,6 +12,8 @@ ClockServer
 -e https://svn.openplans.org/svn/deployments/livable-streets/ijsselstein/ZCMLLoader/#egg=ZCMLLoader
 -e https://svn.openplans.org/svn/deployments/livable-streets/ijsselstein/oc-feed/#egg=oc-feed
 -e https://svn.openplans.org/svn/deployments/livable-streets/ijsselstein/configparser/#egg=configparser
+# TODO make tag for this:
+-e https://svn.openplans.org/svn/oc-tt/trunk/#egg=oc-tt
 
 zinstall_packages = zcmlloader
 
