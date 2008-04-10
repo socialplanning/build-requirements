@@ -1,4 +1,5 @@
 -e https://svn.openplans.org/svn/TaskTracker/trunk
 -e https://svn.openplans.org/svn/CabochonClient/trunk
+Mako>=0.1.8
 PasteScript
 mysql-python
