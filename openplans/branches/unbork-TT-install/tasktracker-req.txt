@@ -2,4 +2,6 @@
 -e https://svn.openplans.org/svn/CabochonClient/trunk
 PasteScript
 mysql-python
-Pylons==0.9.6.1
+Mako>=0.1.8
+nose>=0.9.3
+WebHelpers>=0.3.2
