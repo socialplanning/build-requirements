@@ -14,6 +14,7 @@ ClockServer
 -e https://svn.openplans.org/svn/ZCMLLoader/trunk
 -e https://svn.openplans.org/svn/oc-feed/trunk
 -e https://svn.openplans.org/svn/oc-vacuum/trunk
+-e https://svn.openplans.org/svn/oc-geotagging/trunk
 threadframe>=0.2
 
 -e https://svn.openplans.org/svn/fassembler/configparser#egg=fassemblerconfigparser-0.1
