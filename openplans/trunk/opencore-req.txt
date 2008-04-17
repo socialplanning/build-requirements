@@ -11,8 +11,8 @@ ClockServer
 -e https://svn.openplans.org/svn/topp.utils/trunk
 -e https://svn.openplans.org/svn/WSSEAuth/trunk
 -e https://svn.openplans.org/svn/ZCMLLoader/trunk
--e https://svn.openplans.org/svn/oc-cab/trunk
--e https://svn.openplans.org/svn/oc-tt/trunk
+-e https://svn.openplans.org/svn/opencore/plugins/oc-cab/trunk
+-e https://svn.openplans.org/svn/opencore/plugins/oc-tt/trunk
 -e https://svn.openplans.org/svn/oc-feed/trunk
 -e https://svn.openplans.org/svn/oc-geotagging/trunk
 
