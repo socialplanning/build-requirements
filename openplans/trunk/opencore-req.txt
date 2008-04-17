@@ -14,7 +14,7 @@ ClockServer
 -e https://svn.openplans.org/svn/opencore/plugins/oc-cab/trunk
 -e https://svn.openplans.org/svn/opencore/plugins/oc-tt/trunk
 -e https://svn.openplans.org/svn/oc-feed/trunk
--e https://svn.openplans.org/svn/oc-geotagging/trunk
+-e https://svn.openplans.org/svn/opencore/plugins/oc-geotagging/trunk
 
 fassembler.configparser==0.1
 threadframe>=0.2
