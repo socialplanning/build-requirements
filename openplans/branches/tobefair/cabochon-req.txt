@@ -1,5 +1,4 @@
 -f https://svn.openplans.org/eggs/
-# TODO create tag of this:
--e https://svn.openplans.org/svn/Cabochon/trunk
+-e https://svn.openplans.org/svn/deployments/openplans/tobefair/Cabochon/#egg=Cabochon
 PasteScript
 mysql-python

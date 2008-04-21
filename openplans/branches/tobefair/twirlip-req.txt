@@ -1,8 +1,7 @@
 -f https://svn.openplans.org/eggs/
 # This avoids a version conflict later:
 decorator>=2.1.0
-# TODO cut tags of these:
--e https://svn.openplans.org/svn/Twirlip/trunk
--e https://svn.openplans.org/svn/cookieauth/trunk
+-e https://svn.openplans.org/svn/deployments/openplans/tobefair/Twirlip/#egg=Twirlip
+-e https://svn.openplans.org/svn/deployments/openplans/tobefair/cookieauth/#egg=cookieauth
 PasteScript
 mysql-python
