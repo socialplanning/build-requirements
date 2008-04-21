@@ -1,6 +1,6 @@
 -f https://svn.openplans.org/eggs/
 # Transcluder needs this, and the link isn't picked up right by easy_install:
--f http://superb-west.dl.sourceforge.net/sourceforge/pyavl/pyavl-1.1.tar.gz#egg=pyavl-dev
+-f http://superb-west.dl.sourceforge.net/sourceforge/pyavl/pyavl-1.1.tar.gz#egg=pyavl_dev
 -e http://codespeak.net/svn/z3/deliverance/DeliveranceVHoster/tags/0.1.2/#egg=deliverancevhoster
 -e http://codespeak.net/svn/z3/deliverance/tags/0.1.2/#egg=deliverance
 -e https://svn.openplans.org/svn/deployments/openplans/tobefair/eyvind/#egg=eyvind
