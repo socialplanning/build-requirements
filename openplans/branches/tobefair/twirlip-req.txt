@@ -5,3 +5,4 @@ decorator>=2.1.0
 -e https://svn.openplans.org/svn/deployments/openplans/tobefair/cookieauth/#egg=cookieauth
 PasteScript
 mysql-python
+simplejson

@@ -5,3 +5,4 @@ decorator>=2.1.0
 -e https://svn.openplans.org/svn/cookieauth/trunk
 PasteScript
 mysql-python
+simplejson

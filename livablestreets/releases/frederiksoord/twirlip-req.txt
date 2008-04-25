@@ -5,3 +5,4 @@ decorator>=2.1.0
 -e https://svn.openplans.org/svn/deployments/livable-streets/frederiksoord/cookieauth/#egg=cookieauth
 PasteScript
 mysql-python
+simplejson
