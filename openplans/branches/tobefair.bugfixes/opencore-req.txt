@@ -13,7 +13,6 @@ ClockServer
 -e https://svn.openplans.org/svn/deployments/openplans/tobefair.bugfixes/ZCMLLoader/#egg=ZCMLLoader
 -e https://svn.openplans.org/svn/deployments/openplans/tobefair.bugfixes/oc-cab/#egg=oc_cab
 -e https://svn.openplans.org/svn/deployments/openplans/tobefair.bugfixes/oc-feed/#egg=oc_feed
--e https://svn.openplans.org/svn/deployments/openplans/tobefair.bugfixes/oc-geotagging/#egg=oc_geotagginf
 -e https://svn.openplans.org/svn/deployments/openplans/tobefair.bugfixes/oc-tt/#egg=oc_tt
 
 -e https://svn.openplans.org/svn/deployments/openplans/tobefair.bugfixes/configparser/#egg=configparser
