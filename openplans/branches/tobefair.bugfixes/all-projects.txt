@@ -7,4 +7,5 @@ fassembler:supervisor
 fassembler:deliverance
 fassembler:wordpress
 fassembler:opencore
+fassembler:zeo
 fassembler:scripttranscluder
