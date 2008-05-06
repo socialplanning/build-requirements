@@ -16,8 +16,9 @@ ClockServer
 -e https://svn.openplans.org/svn/opencore/plugins/oc-feed/trunk
 -e https://svn.openplans.org/svn/opencore/plugins/oc-geotagging/trunk
 
-fassembler.configparser==0.1
 threadframe>=0.2
+
+-e https://svn.openplans.org/svn/fassembler/configparser#egg=fassemblerconfigparser-0.1
 
 zinstall_packages = zcmlloader
 
