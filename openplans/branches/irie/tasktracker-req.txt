@@ -1,4 +1,4 @@
--e https://svn.openplans.org/svn/deployments/openplans/tobefair.bugfixes/TaskTracker/#egg=TaskTracker
--e https://svn.openplans.org/svn/deployments/openplans/tobefair.bugfixes/CabochonClient/#egg=CabochonClient
+-e https://svn.openplans.org/svn/TaskTracker/trunk@16468#egg=TaskTracker
+-e https://svn.openplans.org/svn/CabochonClient/trunk@13123#egg=CabochonClient
 PasteScript
 mysql-python

@@ -1,4 +1,4 @@
 -f https://svn.openplans.org/eggs/
--e https://svn.openplans.org/svn/deployments/openplans/tobefair.bugfixes/Cabochon/#egg=Cabochon
+-e https://svn.openplans.org/svn/Cabochon/trunk@15478#egg=Cabochon
 PasteScript
 mysql-python
