@@ -12,5 +12,4 @@ cython
 # Other versions of nose can get installed accidentally and cause conflicts:
 nose>=0.9.3
 
-# XXX What should this be for openplans?  Nonexistant?
-default_theme_uri = /
+default_theme_uri = /theme.html
