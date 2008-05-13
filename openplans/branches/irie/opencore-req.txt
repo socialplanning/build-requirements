@@ -14,7 +14,7 @@ PIL
 -e https://svn.openplans.org/svn/opencore/plugins/oc-feed/trunk@16593#egg=oc_feed
 -e https://svn.openplans.org/svn/opencore/plugins/oc-tt/trunk@16524#egg=oc_tt
 
--e https://svn.openplans.org/svn/fassembler/configparser@15465#egg=fassembler.configparser
+-e https://svn.openplans.org/svn/fassembler/configparser@16600#egg=fassembler.configparser
 
 threadframe>=0.2
 
