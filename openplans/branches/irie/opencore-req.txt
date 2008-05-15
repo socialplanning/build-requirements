@@ -2,7 +2,8 @@
 -f https://svn.openplans.org/eggs/
 -f http://dist.repoze.org/PIL-1.1.6.tar.gz
 PIL
--f https://svn.openplans.org/svn/vendor/ClockServer/openplans@11385#egg=ClockServer
+-f https://svn.openplans.org/svn/vendor/ClockServer/openplans#egg=ClockServer-0.1
+ClockServer
 -f https://svn.openplans.org/eggs/twill-0.9.tar.gz#egg=twill
 -e https://svn.openplans.org/svn/deployments/openplans/irie/opencore#egg=opencore
 -e https://svn.openplans.org/svn/CabochonClient/trunk@13123#egg=CabochonClient
