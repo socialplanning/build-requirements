@@ -1,4 +1,4 @@
 fassembler:topp
 fassembler:supervisor
 fassembler:relateme
-fassembler:scripttransluder
+fassembler:scripttranscluder
