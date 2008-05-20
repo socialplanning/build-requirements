@@ -16,12 +16,12 @@ zinstall_packages = sputnik
 PIL
 # to satisfy requirement ClockServer==0.1dev-r11385
 ClockServer
--e https://svn.openplans.org/svn/opencore/trunk@16861#egg=opencore-dev
+-e https://svn.openplans.org/svn/opencore/trunk@17111#egg=opencore-dev
 -e https://svn.openplans.org/svn/topp.featurelets/trunk@15882#egg=topp.featurelets-dev
 -e https://svn.openplans.org/svn/topp.utils/trunk@16317#egg=topp.utils-dev
 -e https://svn.openplans.org/svn/WSSEAuth/trunk@14327#egg=WSSEAuth-dev
--e https://svn.openplans.org/svn/sputnik/trunk@16866#egg=sputnik-dev
--e https://svn.openplans.org/svn/StreetsWiki/trunk@16835#egg=StreetsWiki-dev
+-e https://svn.openplans.org/svn/sputnik/trunk@17109#egg=sputnik-dev
+-e https://svn.openplans.org/svn/StreetsWiki/trunk@17080#egg=StreetsWiki-dev
 -e https://svn.openplans.org/svn/ZCMLLoader/trunk@14130#egg=ZCMLLoader-dev
 -e https://svn.openplans.org/svn/opencore/plugins/oc-feed/trunk@16593#egg=oc_feed-dev
 -e https://svn.openplans.org/svn/opencore/plugins/oc-vacuum/trunk@16643#egg=oc_vacuum-dev
