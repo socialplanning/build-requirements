@@ -1,15 +1,32 @@
 -f https://svn.openplans.org/eggs
-# Transcluder needs this, and the link isn't picked up right be easy_install:
 -f http://svn.openplans.org/eggs/pyavl-1.1.tar.gz#egg=pyavl-dev
--e http://codespeak.net/svn/z3/deliverance/DeliveranceVHoster/trunk
--e http://codespeak.net/svn/z3/deliverance/trunk
--e http://svn.pythonpaste.org/Paste/WSGIFilter/trunk/#egg=WSGIFilter
--e https://svn.openplans.org/svn/eyvind/trunk
--e https://svn.openplans.org/svn/signedheaders/trunk
-PasteScript
-cython
--e http://codespeak.net/svn/lxml/tag/lxml-1.3.6
-# Other versions of nose can get installed accidentally and cause conflicts:
-nose>=0.9.3
-
 rules_repo = https://svn.openplans.org/svn/build/rules/livablestreets
+-e http://codespeak.net/svn/z3/deliverance/DeliveranceVHoster/trunk@54498#egg=DeliveranceVHoster-dev
+-e http://codespeak.net/svn/z3/deliverance/trunk@53819#egg=Deliverance-dev
+-e http://svn.pythonpaste.org/Paste/WSGIFilter/trunk@7189#egg=WSGIFilter-dev
+-e https://svn.openplans.org/svn/eyvind/trunk@13106#egg=eyvind-dev
+-e https://svn.openplans.org/svn/signedheaders/trunk@16544#egg=signedheaders-dev
+PasteScript==1.6.2
+PasteDeploy==1.3.1
+Paste==1.6
+Cython==0.9.6.14
+-e http://codespeak.net/svn/lxml/tag/lxml-1.3.6/src@48177#egg=lxml-dev
+nose==0.10.1
+Transcluder==0.1
+wsgi-intercept==dev
+# could not find svn URL in dependency_links for any package
+OHM==0.1.1dev-r7031
+# could not find svn URL in dependency_links for any package
+HTTPEncode==0.1dev-r6484
+httplib2==0.4.0
+Pylons==0.9.6.1
+elementtree==1.2.7-20070827-preview
+pyavl==1.1
+enum==0.4.3
+decorator==2.2.0
+FormEncode==1.0.1
+simplejson==1.7.3
+Mako==0.1.10
+Beaker==0.9.4
+WebHelpers==0.3.4
+Routes==1.8
