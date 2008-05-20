@@ -25,7 +25,6 @@ ClockServer
 -e https://svn.openplans.org/svn/ZCMLLoader/trunk@14130#egg=ZCMLLoader-dev
 -e https://svn.openplans.org/svn/opencore/plugins/oc-feed/trunk@16593#egg=oc_feed-dev
 -e https://svn.openplans.org/svn/opencore/plugins/oc-vacuum/trunk@16643#egg=oc_vacuum-dev
--e https://svn.openplans.org/svn/opencore/plugins/oc-geotagging/trunk@16460#egg=oc_geotag-dev
 threadframe==0.2
 -e https://svn.openplans.org/svn/fassembler/configparser@16600#egg=fassembler.configparser-dev
 flunc==0.2
