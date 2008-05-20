@@ -1,5 +1,5 @@
 -f https://svn.openplans.org/eggs/
--f http://dist.repoze.org/PIL-1.1.6.tar.gz
+-f http://dist.repoze.org/PIL-1.1.6.tar.gz#egg=PIL
 -f https://svn.openplans.org/svn/vendor/ClockServer/openplans/#egg=ClockServer-0.1
 -f https://svn.openplans.org/eggs/twill-0.9.tar.gz#egg=twill
 -f https://svn.openplans.org/svn/vendor/geopy/openplans/dist/geopy-0.93_20071130-py2.4.egg
@@ -12,9 +12,10 @@ opencore_site_title = Livable Streets
 zinstall_packages = sputnik
     streetswiki
     zcmlloader
-PIL==1.1.6
+#PIL==1.1.6
+PIL
 # to satisfy requirement ClockServer==0.1dev-r11385
---editable https://svn.openplans.org/svn/vendor/ClockServer/openplans/@11385
+ClockServer
 -e https://svn.openplans.org/svn/opencore/trunk@16861#egg=opencore-dev
 -e https://svn.openplans.org/svn/topp.featurelets/trunk@15882#egg=topp.featurelets-dev
 -e https://svn.openplans.org/svn/topp.utils/trunk@16317#egg=topp.utils-dev
@@ -22,19 +23,15 @@ PIL==1.1.6
 -e https://svn.openplans.org/svn/sputnik/trunk@16866#egg=sputnik-dev
 -e https://svn.openplans.org/svn/StreetsWiki/trunk@16835#egg=StreetsWiki-dev
 -e https://svn.openplans.org/svn/ZCMLLoader/trunk@14130#egg=ZCMLLoader-dev
--e https://svn.openplans.org/svn/opencore/plugins/oc-feed/trunk@16593#egg=oc-feed-dev
--e https://svn.openplans.org/svn/opencore/plugins/oc-vacuum/trunk@16643#egg=oc-vacuum-dev
--e https://svn.openplans.org/svn/opencore/plugins/oc-geotagging/trunk@16460#egg=oc-geotag-dev
+-e https://svn.openplans.org/svn/opencore/plugins/oc-feed/trunk@16593#egg=oc_feed-dev
+-e https://svn.openplans.org/svn/opencore/plugins/oc-vacuum/trunk@16643#egg=oc_vacuum-dev
+-e https://svn.openplans.org/svn/opencore/plugins/oc-geotagging/trunk@16460#egg=oc_geotag-dev
 threadframe==0.2
 -e https://svn.openplans.org/svn/fassembler/configparser@16600#egg=fassembler.configparser-dev
 flunc==0.2
 uuid==1.30
 borg.localrole==1.0rc1
-# to satisfy requirement plone.app.form==0.1dev-r15470
---editable http://svn.plone.org/svn/plone/plone.app.form/branches/plone-3.0@15470
-plone.mail==0.1dev
 lxml==2.0.3
-plone.memoize==1.1
 httplib2==0.4.0
 # to satisfy requirement OpencoreRedirect==0.4dev-r14301
 --editable https://svn.openplans.org/svn/OpencoreRedirect/trunk@14301
@@ -47,9 +44,8 @@ simplejson==1.7.3
 --editable https://svn.openplans.org/svn/oc-js/trunk/@15393
 twill==0.9
 # could not find svn URL in dependency_links for any package
-collective.testing==0.3dev-r41577
 plone.fieldsets==1.0
 five.intid==0.1.6
 zope.dottedname==3.4.2
 python-dateutil==1.3
--e https://svn.openplans.org/svn/vendor/geopy/openplans/build/lib@11439#egg=geopy-dev
+geopy
