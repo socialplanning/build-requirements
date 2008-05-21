@@ -18,7 +18,7 @@ ClockServer
 -e https://svn.openplans.org/svn/fassembler/configparser#egg=fassemblerconfigparser-0.1
 
 threadframe>=0.2
-plonelibs>=3.0.6.1
+plonelibs>=3.0.6.2
 
 zinstall_packages = zcmlloader
 
