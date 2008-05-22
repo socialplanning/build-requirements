@@ -1,3 +1,5 @@
+rules_repo = https://svn.openplans.org/svn/build/rules/openplans
+
 -f https://svn.openplans.org/eggs/
 # Transcluder needs this, and the link isn't picked up right by easy_install:
 -f http://superb-west.dl.sourceforge.net/sourceforge/pyavl/pyavl-1.1.tar.gz#egg=pyavl_dev
