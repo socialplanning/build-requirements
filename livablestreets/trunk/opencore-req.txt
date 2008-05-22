@@ -1,31 +1,29 @@
--Z
+opencore_site_id = openplans
+opencore_site_title = Livable Streets
+email_from_address = greetings@livablestreets.com
+mailing_list_fqdn = lists.livablestreets.com
+ftests_path = opencore/src/sputnik/ftests
+zinstall_packages = sputnik
+                    streetswiki
+                    zcmlloader
+
+--always-unzip
 -f https://svn.openplans.org/eggs/
--f http://dist.repoze.org/PIL-1.1.6.tar.gz
-PIL
+-f http://dist.repoze.org/PIL-1.1.6.tar.gz#egg=PIL-1.1.6
 -f https://svn.openplans.org/svn/vendor/ClockServer/openplans/#egg=ClockServer-0.1
-ClockServer
 -f https://svn.openplans.org/eggs/twill-0.9.tar.gz#egg=twill
+-f https://svn.openplans.org/svn/vendor/geopy/openplans/dist/geopy-0.93_20071130-py2.4.egg
 -e https://svn.openplans.org/svn/opencore/trunk
 -e https://svn.openplans.org/svn/topp.featurelets/trunk
 -e https://svn.openplans.org/svn/topp.utils/trunk
 -e https://svn.openplans.org/svn/WSSEAuth/trunk
 -e https://svn.openplans.org/svn/sputnik/trunk
--e https://svn.openplans.org/svn/StreetsWiki/trunk 
+-e https://svn.openplans.org/svn/StreetsWiki/trunk
 -e https://svn.openplans.org/svn/ZCMLLoader/trunk
 -e https://svn.openplans.org/svn/opencore/plugins/oc-feed/trunk
 -e https://svn.openplans.org/svn/opencore/plugins/oc-vacuum/trunk
-threadframe>=0.2
--f https://svn.openplans.org/svn/vendor/geopy/openplans/dist/geopy-0.93_20071130-py2.4.egg
-geopy
 -e https://svn.openplans.org/svn/fassembler/configparser#egg=fassemblerconfigparser-0.1
-
-zinstall_packages = sputnik
-                    streetswiki
-                    zcmlloader
-
-opencore_site_id = openplans
-opencore_site_title = Livable Streets
-email_from_address = greetings@livablestreets.com
-mailing_list_fqdn = lists.livablestreets.com
-
-ftests_path = opencore/src/sputnik/ftests
+threadframe>=0.2
+PIL
+ClockServer
+geopy
