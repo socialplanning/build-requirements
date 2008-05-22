@@ -21,6 +21,7 @@ ClockServer
 -e https://svn.openplans.org/svn/opencore/plugins/oc-cab/trunk@16578#egg=oc_cab
 -e https://svn.openplans.org/svn/opencore/plugins/oc-feed/trunk@16593#egg=oc_feed
 -e https://svn.openplans.org/svn/opencore/plugins/oc-tt/trunk@16524#egg=oc_tt
+-e https://svn.openplans.org/svn/opencore/plugins/oc-vacuum/trunk@17241#egg=oc_vacuum
 -e https://svn.openplans.org/svn/fassembler/configparser@16600#egg=fassembler.configparser
 -f https://svn.openplans.org/svn/vendor/geopy/openplans/dist/geopy-0.93_20071130-py2.4.egg
 geopy
