@@ -38,7 +38,6 @@ feedparser==4.1
 decorator==2.2.0
 simplejson==1.7.3
 twill==0.9
-# could not find svn URL in dependency_links for any package
 plone.fieldsets==1.0
 five.intid==0.1.6
 zope.dottedname==3.4.2
