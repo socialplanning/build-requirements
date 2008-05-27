@@ -1,46 +1,28 @@
+zinstall_packages = zcmlloader
+
 opencore_site_id = openplans
 opencore_site_title = OpenPlans
-zinstall_packages = zcmlloader
--f http://dist.repoze.org/PIL-1.1.6.tar.gz
+email_from_address = greetings@openplans.org
+mailing_list_fqdn = lists.openplans.org
+
+-Z
 -f https://svn.openplans.org/eggs/
--f https://svn.openplans.org/eggs/twill-0.9.tar.gz#egg=twill
+-f http://dist.repoze.org/PIL-1.1.6.tar.gz
+PIL
 -f https://svn.openplans.org/svn/vendor/ClockServer/openplans/#egg=ClockServer-0.1
+ClockServer
+-f https://svn.openplans.org/eggs/twill-0.9.tar.gz#egg=twill
+-e https://svn.openplans.org/svn/opencore/trunk
+-e https://svn.openplans.org/svn/CabochonClient/trunk
+-e https://svn.openplans.org/svn/topp.featurelets/trunk
+-e https://svn.openplans.org/svn/topp.utils/trunk
+-e https://svn.openplans.org/svn/WSSEAuth/trunk
+-e https://svn.openplans.org/svn/ZCMLLoader/trunk
+-e https://svn.openplans.org/svn/opencore/plugins/oc-cab/trunk
+-e https://svn.openplans.org/svn/opencore/plugins/oc-tt/trunk
+-e https://svn.openplans.org/svn/opencore/plugins/oc-feed/trunk
+-e https://svn.openplans.org/svn/fassembler/configparser#egg=fassemblerconfigparser-0.1
 -f https://svn.openplans.org/svn/vendor/geopy/openplans/dist/geopy-0.93_20071130-py2.4.egg
---always-unzip
--e https://svn.openplans.org/svn/CabochonClient/trunk@13123#egg=CabochonClient-0.1dev_r13123-py2.4-dev
--e https://svn.openplans.org/svn/ClockQueue/trunk@10270#egg=ClockQueue-0.1.1dev_r10270-py2.4-dev
--e https://svn.openplans.org/svn/vendor/ClockServer/openplans@11385#egg=ClockServer-dev
-FormEncode==1.0.1
--e https://svn.openplans.org/svn/OpencoreRedirect/trunk@17283#egg=OpencoreRedirect-0.4dev_r17283-py2.4-dev
-PIL==1.1.6
-SQLObject==0.10.0b2
--e https://svn.openplans.org/svn/WSSEAuth/trunk@14327#egg=WSSEAuth-0.1dev_r14327-py2.4-dev
--e https://svn.openplans.org/svn/ZCMLLoader/trunk@14130#egg=ZCMLLoader-0.1-py2.4-dev
-borg.localrole==1.0rc1
-decorator==2.2.0
--e https://svn.openplans.org/svn/fassembler/configparser@16600#egg=fassembler.configparser-dev
-feedparser==4.1
-five.intid==0.1.6
-flunc==0.2
-geopy==0.93-20071130
-httplib2==0.4.0
-lxml==2.0.3
--e https://svn.openplans.org/svn/opencore/plugins/oc-cab/trunk@16578#egg=oc_cab-0.1-py2.4-dev
--e https://svn.openplans.org/svn/opencore/plugins/oc-feed/trunk@16593#egg=oc_feed-0.1-py2.4-dev
--e https://svn.openplans.org/svn/opencore/plugins/oc-geotagging/trunk@17307#egg=oc_geotag-0.1-py2.4-dev
--e https://svn.openplans.org/svn/oc-js/trunk@17308#egg=oc_js-0.3.1dev_r17308-py2.4-dev
--e https://svn.openplans.org/svn/opencore/plugins/oc-tt/trunk@16819#egg=oc_tt-0.1.2dev-py2.4-dev
--e https://svn.openplans.org/svn/opencore/trunk@17173#egg=opencore-0.12dev-py2.4-dev
-# could not find svn URL in dependency_links for this package:
-plone.app.form==0.1dev-r15470
-plone.fieldsets==1.0
-pysqlite==2.4.0
-python-dateutil==1.3
-restclient==0.9.8
-simplejson==1.7.3
-threadframe==0.2
--e https://svn.openplans.org/svn/topp.featurelets/trunk@15882#egg=topp.featurelets-0.2.3dev_r15882-py2.4-dev
--e https://svn.openplans.org/svn/topp.utils/trunk@16317#egg=topp.utils-0.5.1dev-py2.4-dev
-twill==0.9
-uuid==1.30
-zope.dottedname==3.4.2
+geopy
+threadframe>=0.2
+
