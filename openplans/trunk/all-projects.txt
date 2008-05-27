@@ -8,4 +8,4 @@ fassembler:tasktracker
 fassembler:wordpress
 fassembler:opencore
 fassembler:zeo
-fassembler:scripttranscluder
+fassembler:maildrop
