@@ -12,7 +12,7 @@ PIL
 -f https://svn.openplans.org/svn/vendor/ClockServer/openplans#egg=ClockServer-0.1
 ClockServer
 -f https://svn.openplans.org/eggs/twill-0.9.tar.gz#egg=twill
--e https://svn.openplans.org/svn/deployments/openplans/irie/opencore#egg=opencore
+-e https://svn.openplans.org/svn/opencore/tags/0.11.3/#egg=opencore
 -e https://svn.openplans.org/svn/CabochonClient/trunk@13123#egg=CabochonClient
 -e https://svn.openplans.org/svn/topp.featurelets/trunk@15882#egg=topp.featurelets
 -e https://svn.openplans.org/svn/topp.utils/trunk@16317#egg=topp.utils
