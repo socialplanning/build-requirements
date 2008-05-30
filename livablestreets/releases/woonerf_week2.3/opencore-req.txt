@@ -40,7 +40,7 @@ simplejson==1.7.3
 # to satisfy requirement ClockQueue==0.1.1dev-r10270
 --editable https://svn.openplans.org/svn/ClockQueue/trunk@10270
 # to satisfy requirement oc-js==0.3.1dev-r15393
---editable https://svn.openplans.org/svn/oc-js/trunk/@15393
+--editable https://svn.openplans.org/svn/oc-js/tags/0.5.0
 twill==0.9
 # could not find svn URL in dependency_links for any package
 plone.fieldsets==1.0
