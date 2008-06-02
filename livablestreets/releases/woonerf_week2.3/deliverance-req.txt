@@ -3,8 +3,8 @@ rules_repo = https://svn.openplans.org/svn/build/rules/livablestreets
 -f https://svn.openplans.org/eggs
 # transcluder needs this, and the link isn't picked up right be easy_install:
 -f http://svn.openplans.org/eggs/pyavl-1.1.tar.gz#egg=pyavl-dev
--e http://codespeak.net/svn/z3/deliverance/trunk@53819#egg=Deliverance-dev
--e http://codespeak.net/svn/z3/deliverance/DeliveranceVHoster/trunk@54498#egg=DeliveranceVHoster-dev
+-e http://codespeak.net/svn/z3/deliverance/trunk@55076#egg=Deliverance-dev
+-e http://codespeak.net/svn/z3/deliverance/DeliveranceVHoster/trunk@55138#egg=DeliveranceVHoster-dev
 -e http://svn.pythonpaste.org/Paste/WSGIFilter/trunk@7189#egg=WSGIFilter-dev
 -e https://svn.openplans.org/svn/eyvind/trunk@13106#egg=eyvind-dev
 -e https://svn.openplans.org/svn/signedheaders/trunk@16544#egg=signedheaders-dev
