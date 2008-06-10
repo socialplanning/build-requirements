@@ -16,15 +16,15 @@ zinstall_packages = sputnik
 PIL
 # to satisfy requirement ClockServer==0.1dev-r11385
 ClockServer
--e https://svn.openplans.org/svn/opencore/trunk@17683#egg=opencore-dev
+-e https://svn.openplans.org/svn/opencore/trunk@17999#egg=opencore-dev
 -e https://svn.openplans.org/svn/topp.featurelets/trunk@15882#egg=topp.featurelets-dev
 -e https://svn.openplans.org/svn/topp.utils/trunk@16317#egg=topp.utils-dev
 -e https://svn.openplans.org/svn/WSSEAuth/trunk@14327#egg=WSSEAuth-dev
--e https://svn.openplans.org/svn/sputnik/trunk@17690#egg=sputnik-dev
--e https://svn.openplans.org/svn/StreetsWiki/trunk@17677#egg=StreetsWiki-dev
+-e https://svn.openplans.org/svn/sputnik/trunk@18081#egg=sputnik-dev
+-e https://svn.openplans.org/svn/StreetsWiki/trunk@17883#egg=StreetsWiki-dev
 -e https://svn.openplans.org/svn/ZCMLLoader/trunk@14130#egg=ZCMLLoader-dev
 -e https://svn.openplans.org/svn/opencore/plugins/oc-feed/trunk@16593#egg=oc_feed-dev
--e https://svn.openplans.org/svn/opencore/plugins/oc-vacuum/trunk@16643#egg=oc_vacuum-dev
+-e https://svn.openplans.org/svn/opencore/plugins/oc-vacuum/trunk@17403#egg=oc_vacuum-dev
 threadframe==0.2
 -e https://svn.openplans.org/svn/fassembler/configparser@16600#egg=fassembler.configparser-dev
 flunc==0.2
