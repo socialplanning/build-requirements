@@ -16,7 +16,7 @@ zinstall_packages = sputnik
 PIL
 # to satisfy requirement ClockServer==0.1dev-r11385
 ClockServer
--e https://svn.openplans.org/svn/opencore/trunk@18098#egg=opencore-dev
+-e https://svn.openplans.org/svn/opencore/trunk@18148#egg=opencore-dev
 -e https://svn.openplans.org/svn/topp.featurelets/trunk@15882#egg=topp.featurelets-dev
 -e https://svn.openplans.org/svn/topp.utils/trunk@16317#egg=topp.utils-dev
 -e https://svn.openplans.org/svn/WSSEAuth/trunk@14327#egg=WSSEAuth-dev
