@@ -8,6 +8,7 @@ rules_repo = https://svn.openplans.org/svn/build/rules/openplans
 -e https://svn.openplans.org/svn/eyvind/trunk
 -e https://svn.openplans.org/svn/signedheaders/trunk
 -e http://svn.pythonpaste.org/Paste/WSGIFilter/trunk
+-e https://svn.openplans.org/svn/timingmiddleware/trunk
 PasteScript
 cython
 -e http://codespeak.net/svn/lxml/tag/lxml-1.3.6
