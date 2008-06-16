@@ -2,6 +2,7 @@ opencore_site_id = openplans
 opencore_site_title = Livable Streets
 email_from_address = greetings@livablestreets.com
 mailing_list_fqdn = lists.livablestreets.com
+opencore_bundle_name = opencore-plone25
 ftests_path = opencore/src/sputnik/ftests
 zinstall_packages = sputnik
                     streetswiki
