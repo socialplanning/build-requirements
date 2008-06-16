@@ -21,7 +21,7 @@ ClockServer
 -e https://svn.openplans.org/svn/topp.utils/trunk@16317#egg=topp.utils-dev
 -e https://svn.openplans.org/svn/WSSEAuth/trunk@14327#egg=WSSEAuth-dev
 -e https://svn.openplans.org/svn/deployments/livable-streets/woonerf_live_1/sputnik#egg=sputnik-dev
--e https://svn.openplans.org/svn/StreetsWiki/trunk@18218#egg=StreetsWiki-dev
+-e https://svn.openplans.org/svn/StreetsWiki/trunk@18376#egg=StreetsWiki-dev
 -e https://svn.openplans.org/svn/ZCMLLoader/trunk@14130#egg=ZCMLLoader-dev
 -e https://svn.openplans.org/svn/opencore/plugins/oc-feed/trunk@16593#egg=oc_feed-dev
 -e https://svn.openplans.org/svn/opencore/plugins/oc-vacuum/trunk@17403#egg=oc_vacuum-dev
