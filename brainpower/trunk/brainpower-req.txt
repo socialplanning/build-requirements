@@ -1,0 +1,9 @@
+opencore_site_id = openplans
+django_tarball_url = http://svn.openplans.org/eggs/Django-0.96.2.tar.bz2
+django_tarball_version = 0.96.2
+
+mysql-python
+#pysqlite
+
+
+
