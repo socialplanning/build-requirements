@@ -6,3 +6,4 @@ mysql-python
 #pysqlite
 
 flunc
+-e https://svn.openplans.org/svn/brainpower/trunk
