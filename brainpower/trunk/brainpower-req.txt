@@ -5,5 +5,4 @@ django_tarball_version = 0.96.2
 mysql-python
 #pysqlite
 
-
-
+flunc
