@@ -5,5 +5,5 @@ django_tarball_version = 0.96.2
 mysql-python
 #pysqlite
 
-flunc
--e https://svn.openplans.org/svn/brainpower/trunk
+-f https://svn.openplans.org/svn/flunc/trunk#egg=flunc-0.3-dev
+flunc>=0.3-dev
