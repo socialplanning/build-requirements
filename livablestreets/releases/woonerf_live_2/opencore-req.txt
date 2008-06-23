@@ -20,7 +20,7 @@ ClockServer
 -e https://svn.openplans.org/svn/topp.utils/trunk@16317#egg=topp.utils-dev
 -e https://svn.openplans.org/svn/topp.featurelets/trunk@15882#egg=topp.featurelets-dev
 -e https://svn.openplans.org/svn/WSSEAuth/trunk@14327#egg=WSSEAuth-dev
--e https://svn.openplans.org/svn/sputnik/trunk@18540#egg=sputnik-dev
+-e https://svn.openplans.org/svn/sputnik/trunk@18612#egg=sputnik-dev
 -e https://svn.openplans.org/svn/StreetsWiki/trunk@18467#egg=StreetsWiki-dev
 -e https://svn.openplans.org/svn/ZCMLLoader/trunk@14130#egg=ZCMLLoader-dev
 -e https://svn.openplans.org/svn/opencore/plugins/oc-feed/trunk@18478#egg=oc_feed-dev
