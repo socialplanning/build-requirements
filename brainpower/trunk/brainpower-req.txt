@@ -6,4 +6,5 @@ mysql-python
 
 -f https://svn.openplans.org/svn/flunc/trunk#egg=flunc-0.3-dev
 flunc>=0.3-dev
+pexpect
 -e https://svn.openplans.org/svn/brainpower/trunk
