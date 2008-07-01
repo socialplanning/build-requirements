@@ -1,9 +1,12 @@
-django_tarball_url = http://svn.openplans.org/eggs/Django-0.96.2.tar.bz2
-django_tarball_version = 0.96.2
+#django_tarball_url = http://svn.openplans.org/eggs/Django-0.96.2.tar.bz2
+#django_tarball_version = 0.96.2
 
 mysql-python
 #pysqlite
 
+-e http://code.djangoproject.com/svn/django/branches/newforms-admin/
+
 flunc>=0.3-dev
 pexpect
--e https://svn.openplans.org/svn/brainpower/trunk
+
+-e https://svn.openplans.org/svn/brainpower/branches/django-newforms-branch
