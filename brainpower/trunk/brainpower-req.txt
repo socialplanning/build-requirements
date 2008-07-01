@@ -4,7 +4,8 @@
 mysql-python
 #pysqlite
 
--e http://code.djangoproject.com/svn/django/branches/newforms-admin/
+-f http://code.djangoproject.com/svn/django/branches/newforms-admin/#egg=django-0.97-newforms-admin-r7815
+django
 
 flunc>=0.3-dev
 pexpect
