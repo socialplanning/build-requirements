@@ -4,7 +4,7 @@
 mysql-python
 #pysqlite
 
--f http://svn.openplans.org/eggs/Django-0.97_newforms-admin_r7815.tar.bz2
+-f http://svn.openplans.org/eggs/Django-0.97_newforms-admin_r7815.tar.bz2#egg=0.97-newforms-admin
 django==0.97-newforms-admin
 
 flunc>=0.3-dev
