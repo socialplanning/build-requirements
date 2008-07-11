@@ -9,4 +9,4 @@ python-dateutil
 simplejson>=1.8.1
 Mako>=0.1.10
 nose>=0.9.3
-WebHelpers>=0.3.2
+WebHelpers>=0.3.2,<0.6.dev
