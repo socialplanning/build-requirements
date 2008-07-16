@@ -7,7 +7,6 @@ fassembler:twirlip
 fassembler:tasktracker
 fassembler:wordpress
 fassembler:opencore
-# Maildrop MUST be done before zeo; this fixes paths in maildrop's
-# stupid embedded config file.
-fassembler:maildrop
 fassembler:zeo
+fassembler:maildrop
+
