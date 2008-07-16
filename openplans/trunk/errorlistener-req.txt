@@ -1,1 +1,7 @@
+# it is key that the version of supervisor used here matches the
+# version of supervisord that is running, since different versions of 
+# supervisord use different protocols for error listeners.
+-f https://svn.openplans.org/eggs
+-e https://svn.openplans.org/svn/vendor/supervisor/openplans#egg=supervisor
 -e https://svn.openplans.org/svn/SupervisorErrorListener/trunk
+
