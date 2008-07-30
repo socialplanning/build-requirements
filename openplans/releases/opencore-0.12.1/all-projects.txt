@@ -9,3 +9,5 @@ fassembler:wordpress
 fassembler:opencore
 fassembler:zeo
 fassembler:maildrop
+fassembler:erroreater
+fassembler:errorlistener
