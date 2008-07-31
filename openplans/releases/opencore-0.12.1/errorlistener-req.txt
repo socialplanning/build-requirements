@@ -1,1 +1,1 @@
--e https://svn.openplans.org/svn/SupervisorErrorListener/trunk
+-e https://svn.openplans.org/svn/SupervisorErrorListener/tags/1.0
