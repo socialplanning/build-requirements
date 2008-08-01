@@ -10,4 +10,4 @@ django==0.97-newforms-admin
 flunc>=0.3-dev
 pexpect
 
--e https://svn.openplans.org/svn/brainpower/branches/django-newforms-branch
+-e https://svn.openplans.org/svn/brainpower/trunk
