@@ -1,11 +1,8 @@
 # This lists all the projects that make up the minimal opencore build.
-# This could and should get more minimal, if we had functional tests that
-# actually just tested opencore; I'd like to at least get rid of deliverance,
-# cabochon, and twirlip.
+# Ftests may or may not pass; our ftests are really tests of
+# the full openplans stack, not "opencore".
 
 fassembler:topp
 fassembler:supervisor
 fassembler:opencore
-fassembler:cabochon
-fassembler:twirlip
 fassembler:zeo
