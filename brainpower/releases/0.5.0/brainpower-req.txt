@@ -10,4 +10,4 @@ django==0.97-newforms-admin
 flunc>=0.3-dev
 pexpect
 
--e https://svn.openplans.org/svn/brainpower/trunk
+-e https://svn.openplans.org/svn/brainpower/tags/0.5.0
