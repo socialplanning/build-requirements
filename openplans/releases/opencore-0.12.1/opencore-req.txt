@@ -13,7 +13,7 @@ PIL
 ClockServer
 -f https://svn.openplans.org/eggs/twill-0.9.tar.gz#egg=twill
 -e https://svn.openplans.org/svn/OpenPlansOrg#egg=OpenPlansOrg
--e https://svn.openplans.org/svn/opencore/branches/0.12.1
+-e https://svn.openplans.org/svn/opencore/tags/0.12.1
 -e https://svn.openplans.org/svn/CabochonClient/trunk@13123#egg=CabochonClient
 -e https://svn.openplans.org/svn/topp.featurelets/tags/pre-p3-merge
 -e https://svn.openplans.org/svn/topp.utils/tags/0.5#egg=topp.utils-0.5
