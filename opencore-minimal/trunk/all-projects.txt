@@ -6,6 +6,4 @@
 fassembler:topp
 fassembler:supervisor
 fassembler:opencore
-fassembler:cabochon
-fassembler:twirlip
 fassembler:zeo
