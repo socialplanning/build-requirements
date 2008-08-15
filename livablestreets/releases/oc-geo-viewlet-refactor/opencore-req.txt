@@ -17,7 +17,7 @@ zinstall_packages = sputnik
 PIL
 # to satisfy requirement ClockServer==0.1dev-r11385
 ClockServer
--e https://svn.openplans.org/svn/deployments/livable-streets/woonerf_live_2/opencore#egg=opencore-dev
+-e https://svn.openplans.org/svn/opencore/branches/0.12.1-viewlet-refactor#egg=opencore-dev
 -e https://svn.openplans.org/svn/topp.utils/trunk@16317#egg=topp.utils-dev
 -e https://svn.openplans.org/svn/topp.featurelets/trunk@15882#egg=topp.featurelets-dev
 -e https://svn.openplans.org/svn/WSSEAuth/trunk@14327#egg=WSSEAuth-dev
@@ -25,8 +25,9 @@ ClockServer
 -e https://svn.openplans.org/svn/StreetsWiki/trunk@18644#egg=StreetsWiki-dev
 -e https://svn.openplans.org/svn/ZCMLLoader/trunk@14130#egg=ZCMLLoader-dev
 -e https://svn.openplans.org/svn/opencore/plugins/oc-feed/trunk@18478#egg=oc_feed-dev
--e https://svn.openplans.org/svn/opencore/plugins/oc-vacuum/trunk@18482#egg=oc_vacuum-dev
--e https://svn.openplans.org/svn/oc-js/trunk@18092#egg=oc_js-dev
+-e https://svn.openplans.org/svn/opencore/plugins/oc-vacuum/branches/viewlet-refactor#egg=oc_vacuum-dev
+-e https://svn.openplans.org/svn/opencore/plugins/oc-geotagging/branches/viewlet-refactor#egg=oc_geotagging-dev
+-e https://svn.openplans.org/svn/oc-js/trunk@19387#egg=oc_js-dev
 -e https://svn.openplans.org/svn/oc-piwik/trunk#egg=oc_piwik-dev
 threadframe==0.2
 -e https://svn.openplans.org/svn/fassembler/configparser@16600#egg=fassembler.configparser-dev
