@@ -18,6 +18,9 @@ ClockServer
 -e https://svn.openplans.org/svn/topp.featurelets/tags/pre-p3-merge
 -e https://svn.openplans.org/svn/topp.utils/tags/0.5#egg=topp.utils-0.5
 -e https://svn.openplans.org/svn/WSSEAuth/trunk@14327#egg=WSSEAuth
+# In order to use zinstall, we need the package source so we can get
+# at its setup.py. This is annoying, but I don't know what to do about
+# it.
 -e https://svn.openplans.org/svn/ZCMLLoader/trunk@14130#egg=ZCMLLoader
 -e https://svn.openplans.org/svn/opencore/plugins/oc-vacuum/trunk#egg=oc_vacuum
 -e https://svn.openplans.org/svn/opencore/plugins/oc-cab/trunk@16578#egg=oc_cab
