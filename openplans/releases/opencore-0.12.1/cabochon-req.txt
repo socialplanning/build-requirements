@@ -2,3 +2,4 @@
 -e https://svn.openplans.org/svn/Cabochon/trunk@17380#egg=Cabochon
 PasteScript==1.6.3
 mysql-python==1.2.2
+simplejson==1.8.1
