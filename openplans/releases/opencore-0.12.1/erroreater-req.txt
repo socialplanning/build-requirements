@@ -1,6 +1,5 @@
 -e https://svn.openplans.org/svn/ErrorEater/tags/1.0
-# The Pylons trunk:
-https://www.knowledgetap.com/hg/pylons-dev/archive/tip.tar.gz#egg=Pylons-dev
-Beaker==0.9.5
-PasteScript
-pysqlite
+Beaker==1.0.0
+Pylons==0.9.7rc1
+PasteScript==1.6.3
+pysqlite==2.4.1
