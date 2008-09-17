@@ -2,8 +2,8 @@
 fassembler:topp
 fassembler:supervisor
 fassembler:deliverance
-fassembler:cabochon
-fassembler:twirlip
+#fassembler:cabochon
+#fassembler:twirlip
 fassembler:wordpress
 fassembler:opencore
 fassembler:zeo
