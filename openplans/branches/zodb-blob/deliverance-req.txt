@@ -4,7 +4,7 @@ rules_repo = https://svn.openplans.org/svn/build/rules/openplans
 # Transcluder needs this, and the link isn't picked up right be easy_install:
 -f http://superb-west.dl.sourceforge.net/sourceforge/pyavl/pyavl-1.1.tar.gz#egg=pyavl-dev
 -e http://codespeak.net/svn/z3/deliverance/DeliveranceVHoster/trunk
--e http://codespeak.net/svn/z3/deliverance/trunk
+-e http://codespeak.net/svn/z3/deliverance/tags/0.2.1
 -e https://svn.openplans.org/svn/eyvind/trunk
 -e https://svn.openplans.org/svn/signedheaders/trunk
 -e http://svn.pythonpaste.org/Paste/WSGIFilter/trunk
