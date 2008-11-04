@@ -19,6 +19,6 @@ plonelibs>=3.0.6.2
 # In order to use zinstall, we need the package source so we can get
 # at its setup.py. This is annoying, but I don't know what to do about
 # it.
--e https://svn.openplans.org/svn/ZCMLLoader/trunk
+-e https://svn.openplans.org/svn/ZCMLLoader/tags/0.1
 zinstall_packages=zcmlloader
 
