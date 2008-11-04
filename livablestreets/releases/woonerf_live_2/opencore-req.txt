@@ -29,7 +29,7 @@ ClockServer
 -e https://svn.openplans.org/svn/oc-js/trunk@18092#egg=oc_js-dev
 -e https://svn.openplans.org/svn/oc-piwik/trunk#egg=oc_piwik-dev
 threadframe==0.2
--e https://svn.openplans.org/svn/fassembler/configparser@16600#egg=fassembler.configparser-dev
+-e https://svn.openplans.org/svn/fassembler.configparser/tags/0.2
 flunc==0.2
 uuid==1.30
 borg.localrole==1.0rc1
