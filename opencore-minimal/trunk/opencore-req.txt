@@ -14,7 +14,7 @@ ClockServer
 -e https://svn.openplans.org/svn/opencore/plugins/oc-cab/branches/oc-0.12-compatible
 -e https://svn.openplans.org/svn/opencore/plugins/oc-tt/branches/opencore-0.12-compatible
 -e https://svn.openplans.org/svn/opencore/plugins/oc-feed/tags/pre-p3-merge
--e https://svn.openplans.org/svn/fassembler/configparser#egg=fassemblerconfigparser-0.1
+-e https://svn.openplans.org/svn/fassembler.configparser/tags/0.2
 -f https://svn.openplans.org/svn/vendor/geopy/openplans/dist/geopy-0.93_20071130-py2.4.egg
 
 geopy

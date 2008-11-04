@@ -25,7 +25,7 @@ ClockServer
 -e https://svn.openplans.org/svn/ZCMLLoader/trunk
 -e https://svn.openplans.org/svn/opencore/plugins/oc-feed/trunk
 -e https://svn.openplans.org/svn/opencore/plugins/oc-vacuum/trunk
--e https://svn.openplans.org/svn/fassembler/configparser#egg=fassemblerconfigparser-0.1
+-e https://svn.openplans.org/svn/fassembler.configparser/tags/0.2
 -f https://svn.openplans.org/svn/vendor/geopy/openplans/dist/geopy-0.93_20071130-py2.4.egg
 geopy
 threadframe>=0.2
