@@ -14,8 +14,8 @@ ClockServer==0.1
 geopy
 topp.featurelets==0.3.0
 topp.utils==0.5.0
-threadframe>=0.2
-plonelibs>=3.0.6.2
+threadframe==0.2
+plonelibs==3.0.6.3
 
 # In order to use zinstall, we need the package source so we can get
 # at its setup.py. This is annoying, but I don't know what to do about
