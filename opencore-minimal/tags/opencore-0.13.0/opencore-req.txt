@@ -6,7 +6,6 @@ PIL
 ClockServer
 -f https://svn.openplans.org/eggs/twill-0.9.tar.gz#egg=twill
 -e https://svn.openplans.org/svn/opencore/tags/0.13.0
--e https://svn.openplans.org/svn/topp.featurelets/branches/plone3
 -e https://svn.openplans.org/svn/topp.utils/trunk
 -e https://svn.openplans.org/svn/WSSEAuth/trunk
 -e https://svn.openplans.org/svn/ZCMLLoader/trunk
@@ -16,6 +15,7 @@ ClockServer
 geopy
 threadframe>=0.2
 plonelibs>=3.0.6.2
+topp.featurelets==0.3.0
 
 zinstall_packages=zcmlloader
 
