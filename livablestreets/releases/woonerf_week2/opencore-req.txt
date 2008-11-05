@@ -4,7 +4,7 @@
 -f https://svn.openplans.org/eggs/twill-0.9.tar.gz#egg=twill
 -f https://svn.openplans.org/svn/vendor/geopy/openplans/dist/geopy-0.93_20071130-py2.4.egg
 --always-unzip
-email_from_address = greetings@livablestreets.com
+email_from_address = support@livablestreets.com
 ftests_path = opencore/src/sputnik/ftests
 mailing_list_fqdn = lists.livablestreets.com
 opencore_site_id = openplans

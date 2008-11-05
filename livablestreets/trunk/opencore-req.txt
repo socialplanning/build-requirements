@@ -1,6 +1,6 @@
 opencore_site_id = openplans
 opencore_site_title = Livable Streets
-email_from_address = greetings@livablestreets.com
+email_from_address = support@livablestreets.com
 mailing_list_fqdn = lists.livablestreets.com
 ftests_path = opencore/src/sputnik/ftests
 zinstall_packages = sputnik
