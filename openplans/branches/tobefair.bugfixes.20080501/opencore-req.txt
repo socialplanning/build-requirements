@@ -23,5 +23,5 @@ zinstall_packages = zcmlloader
 
 opencore_site_id = openplans
 opencore_site_title = OpenPlans
-email_from_address = greetings@openplans.org
+email_from_address = support@openplans.org
 mailing_list_fqdn = lists.openplans.org
