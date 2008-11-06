@@ -18,7 +18,7 @@ decorator==2.2.0
 -e https://svn.openplans.org/svn/fassembler.configparser/tags/0.2#egg=fassembler.configparser-0.2
 feedparser==4.1
 five.intid==0.2.1
-five.localsitemanager==1.0c1
+five.localsitemanager==0.4
 flunc==0.3
 -f https://svn.openplans.org/svn/vendor/geopy/openplans/dist/geopy-0.93_20071130-py2.4.egg
 geopy==0.93-20071130
