@@ -10,7 +10,7 @@
 Pylons==0.9.7rc2
 
 -e http://codespeak.net/svn/z3/deliverance/DeliveranceVHoster/trunk@55138
--e http://codespeak.net/svn/z3/deliverance/tags/0.2.1
+-e http://codespeak.net/svn/z3/deliverance/branches/0.2
 -e https://svn.openplans.org/svn/eyvind/trunk@18052
 -e https://svn.openplans.org/svn/signedheaders/trunk@16544
 -e http://svn.pythonpaste.org/Paste/WSGIFilter/trunk@7189
