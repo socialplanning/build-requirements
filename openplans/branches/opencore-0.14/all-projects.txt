@@ -6,6 +6,7 @@ fassembler:cabochon
 fassembler:twirlip
 fassembler:tasktracker
 fassembler:wordpress
+fassembler:i18ndude
 fassembler:opencore
 fassembler:zeo
 fassembler:scripttranscluder
