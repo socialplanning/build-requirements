@@ -4,6 +4,6 @@
 
 fassembler:topp
 fassembler:supervisor
-fassembler:i18ndude
 fassembler:opencore
+fassembler:i18ndude
 fassembler:zeo
