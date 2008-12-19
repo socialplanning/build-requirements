@@ -5,7 +5,7 @@ ClockQueue==0.1.1
 -f https://svn.openplans.org/svn/vendor/ClockServer/openplans/#egg=ClockServer-0.1dev-r11385
 ClockServer==0.1dev-r11385
 FormEncode==1.0.1
-OpencoreRedirect==0.5
+-e https://svn.openplans.org/svn/OpencoreRedirect/trunk@19616#egg=OpencoreRedirect-0.5dev_r19616
 PIL==1.1.6
 Products.CMFSquidTool==1.5
 Products.CacheSetup==1.2
