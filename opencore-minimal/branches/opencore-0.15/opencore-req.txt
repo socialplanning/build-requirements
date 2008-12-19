@@ -26,7 +26,7 @@ httplib2==0.4.0
 lxml==2.0.3
 -e https://svn.openplans.org/svn/opencore/plugins/oc-feed/tags/0.2#egg=oc_feed-0.2
 oc-js==0.6.0
--e https://svn.openplans.org/svn/opencore/branches/0.14
+-e https://svn.openplans.org/svn/opencore/branches/0.15
 -f http://svn.openplans.org/eggs/plone.app.form-0.1dev_r15470-py2.4.egg
 plone.fieldsets==1.0
 plone.mail==0.1dev
