@@ -27,7 +27,7 @@ ClockServer
 -e https://svn.openplans.org/svn/opencore/plugins/oc-feed/trunk@18478#egg=oc_feed-dev
 -e https://svn.openplans.org/svn/opencore/plugins/oc-vacuum/trunk@18482#egg=oc_vacuum-dev
 -e https://svn.openplans.org/svn/oc-js/trunk@18092#egg=oc_js-dev
--e https://svn.openplans.org/svn/oc-piwik/trunk#egg=oc_piwik-dev
+-e https://svn.openplans.org/svn/opencore/plugins/oc-piwik/trunk#egg=oc_piwik-dev
 threadframe==0.2
 -e https://svn.openplans.org/svn/fassembler.configparser/tags/0.2
 flunc==0.2

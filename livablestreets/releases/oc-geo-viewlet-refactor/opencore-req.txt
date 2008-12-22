@@ -28,7 +28,7 @@ ClockServer
 -e https://svn.openplans.org/svn/opencore/plugins/oc-vacuum/branches/viewlet-refactor#egg=oc_vacuum-dev
 -e https://svn.openplans.org/svn/opencore/plugins/oc-geotagging/branches/viewlet-refactor#egg=oc_geotagging-dev
 -e https://svn.openplans.org/svn/oc-js/trunk@19886#egg=oc_js-dev
--e https://svn.openplans.org/svn/oc-piwik/trunk#egg=oc_piwik-dev
+-e https://svn.openplans.org/svn/opencore/plugins/oc-piwik/trunk#egg=oc_piwik-dev
 threadframe==0.2
 -e https://svn.openplans.org/svn/fassembler.configparser/tags/0.2
 flunc==0.2
