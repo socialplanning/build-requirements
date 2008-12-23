@@ -6,6 +6,7 @@ ftests_path = opencore/src/sputnik/ftests
 zinstall_packages = sputnik
                     streetswiki
                     zcmlloader
+                    oc-geotagging
 
 --always-unzip
 -f https://svn.openplans.org/eggs/
