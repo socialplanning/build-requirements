@@ -66,4 +66,4 @@ zope.proxy==3.4.2
 zinstall_packages = zcmlloader
 
 # Remove this if you're not actually building openplans.org :)
--e https://svn.openplans.org/svn/OpenPlansOrg/trunk@r22233#egg=OpenPlansOrg
+-e https://svn.openplans.org/svn/OpenPlansOrg/trunk@22233#egg=OpenPlansOrg
