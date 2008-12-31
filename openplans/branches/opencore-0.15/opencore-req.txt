@@ -48,23 +48,22 @@ zope.proxy==3.4.2
 
 -e https://svn.openplans.org/svn/CabochonClient/trunk@21270#egg=CabochonClient-0.1dev_r21270-py2.4-dev
 -e https://svn.openplans.org/svn/WSSEAuth/trunk@19612#egg=WSSEAuth-0.2devdev_r19612-py2.4-dev
+# equivalent to zcmlloader trunk@1430
+-e https://svn.openplans.org/svn/ZCMLLoader/tags/0.1#egg=ZCMLLoader-0.1
 -e https://svn.openplans.org/svn/fassembler.configparser/tags/0.2#egg=fassembler.configparser-0.2
 -e https://svn.openplans.org/svn/opencore/branches/0.15#egg=opencore-0.15dev
 -e https://svn.openplans.org/svn/opencore/plugins/oc-cab/trunk@19754#egg=oc_cab-0.2dev-py2.4-dev
 -e https://svn.openplans.org/svn/opencore/plugins/oc-feed/tags/0.3#egg=oc-feed-0.3
--e https://svn.openplans.org/svn/opencore/plugins/oc-tt/trunk@20280#egg=oc_tt-0.1.2dev-py2.4-dev
 -e https://svn.openplans.org/svn/opencore/plugins/oc-piwik/trunk@22069#egg=oc_piwik-0.1dev-py2.4-dev
+-e https://svn.openplans.org/svn/opencore/plugins/oc-tt/trunk@20280#egg=oc_tt-0.1.2dev-py2.4-dev
 -e https://svn.openplans.org/svn/topp.featurelets/tags/0.3.0#egg=topp.featurelets-0.3.0
 -e https://svn.openplans.org/svn/topp.utils/tags/0.5#egg=topp.utils-0.5
 
-# equivalent to trunk@1430
--e https://svn.openplans.org/svn/ZCMLLoader/tags/0.1#egg=ZCMLLoader-0.1
 
 # In order to use zinstall, we need the package source so we can get
 # at its setup.py. This is annoying, but I don't know what to do about
 # it.
 zinstall_packages = zcmlloader
 
-
-
-
+# Remove this if you're not actually building openplans.org :)
+-e https://svn.openplans.org/svn/OpenPlansOrg/trunk@r22233#egg=OpenPlansOrg
