@@ -2,9 +2,7 @@
 # Transcluder needs this, and the link isn't picked up right be easy_install:
 -f http://superb-west.dl.sourceforge.net/sourceforge/pyavl/pyavl-1.1.tar.gz#egg=pyavl-dev
 
-# Make sure we don't get too recent a version of transcluder;
-# its requirements caused conflicts on nose and lxml.
--e https://svn.openplans.org/svn/transcluder/trunk@21178
+-e https://svn.openplans.org/svn/transcluder/trunk@21463
 
 # More recent versions of Pylons cause conflicts on FormEncode.
 Pylons==0.9.7rc2
@@ -13,7 +11,7 @@ Pylons==0.9.7rc2
 -e http://codespeak.net/svn/z3/deliverance/tags/0.2.2
 -e https://svn.openplans.org/svn/eyvind/trunk@18052
 -e https://svn.openplans.org/svn/signedheaders/trunk@16544
--e http://svn.pythonpaste.org/Paste/WSGIFilter/trunk@7189
+-e http://svn.pythonpaste.org/Paste/WSGIFilter/trunk@7694
 PasteScript
 cython
 
