@@ -6,6 +6,7 @@ ftests_path = opencore/src/sputnik/ftests
 zinstall_packages = sputnik
                     streetswiki
                     zcmlloader
+                    oc_piwik
 
 --always-unzip
 -f https://svn.openplans.org/eggs/
@@ -15,8 +16,8 @@ zinstall_packages = sputnik
 -f https://svn.openplans.org/svn/vendor/geopy/openplans/dist/geopy-0.93_20071130-py2.4.egg
 -e https://svn.openplans.org/svn/opencore/branches/people-cloud@22556#egg=opencore
 -e https://svn.openplans.org/svn/topp.featurelets/tags/pre-p3-merge
--e https://svn.openplans.org/svn/topp.utils/trunk@22543
--e https://svn.openplans.org/svn/WSSEAuth/trunk@19612
+-e https://svn.openplans.org/svn/topp.utils/tags/0.5
+-e https://svn.openplans.org/svn/WSSEAuth/tags/0.1.1#egg=wsseauth
 -e https://svn.openplans.org/svn/sputnik/branches/0.9.8@22552
 -e https://svn.openplans.org/svn/StreetsWiki/trunk@21840
 -e https://svn.openplans.org/svn/ZCMLLoader/trunk@14130
@@ -24,7 +25,7 @@ zinstall_packages = sputnik
 -e https://svn.openplans.org/svn/opencore/plugins/oc-vacuum/trunk@19274
 -e https://svn.openplans.org/svn/fassembler.configparser/tags/0.2
 -e https://svn.openplans.org/svn/opencore/plugins/oc-geotagging/tags/0.5
--e https://svn.openplans.org/svn/opencore/plugins/oc-piwik/tags/0.1#egg=oc_piwik
+-e https://svn.openplans.org/svn/opencore/plugins/oc-piwik/trunk#egg=oc_piwik
 threadframe>=0.2
 PIL
 ClockServer
