@@ -1,0 +1,4 @@
+-f https://svn.openplans.org/eggs
+
+mysql-python
+-e https://svn.openplans.org/svn/FeedBacker/trunk#egg=feedbacker-dev
