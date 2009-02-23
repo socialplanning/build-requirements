@@ -1,7 +1,6 @@
 -Z
 -f https://svn.openplans.org/eggs/
 
-ClockQueue==0.1.1
 FormEncode==1.0.1
 -e https://svn.openplans.org/svn/OpencoreRedirect/trunk@19616#egg=OpencoreRedirect-0.5dev_r19616
 PIL==1.1.6
