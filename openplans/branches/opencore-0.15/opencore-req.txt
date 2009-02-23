@@ -50,7 +50,7 @@ zope.proxy==3.4.2
 -e https://svn.openplans.org/svn/fassembler.configparser/tags/0.2#egg=fassembler.configparser-0.2
 -e https://svn.openplans.org/svn/opencore/branches/0.15#egg=opencore-0.15dev
 -e https://svn.openplans.org/svn/opencore/plugins/oc-cab/trunk@19754#egg=oc_cab-0.2dev-py2.4-dev
--e https://svn.openplans.org/svn/opencore/plugins/oc-feed/tags/0.3#egg=oc-feed-0.3
+-e https://svn.openplans.org/svn/opencore/plugins/oc-feed/tags/0.3#egg=oc_feed-0.3
 -e https://svn.openplans.org/svn/opencore/plugins/oc-piwik/trunk@22069#egg=oc_piwik-0.1dev-py2.4-dev
 -e https://svn.openplans.org/svn/opencore/plugins/oc-tt/trunk@20280#egg=oc_tt-0.1.2dev-py2.4-dev
 -e https://svn.openplans.org/svn/topp.featurelets/tags/0.3.0#egg=topp.featurelets-0.3.0
