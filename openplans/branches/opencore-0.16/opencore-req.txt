@@ -3,6 +3,15 @@
 
 -e https://svn.openplans.org/svn/CabochonClient/trunk@21270#egg=CabochonClient-0.1dev_r21270-py2.4-dev
 -e https://svn.openplans.org/svn/OpencoreRedirect/tags/0.5#egg=OpencoreRedirect-0.5
+-e https://svn.openplans.org/svn/WSSEAuth/tags/0.1.1#egg=WSSEAuth-0.1.1
+-e https://svn.openplans.org/svn/fassembler.configparser/tags/0.2#egg=fassembler.configparser-0.2
+-e https://svn.openplans.org/svn/opencore/branches/0.16
+-e https://svn.openplans.org/svn/opencore/plugins/oc-cab/trunk@19754#egg=oc_cab-0.2dev-py2.4-dev
+-e https://svn.openplans.org/svn/opencore/plugins/oc-feed/tags/0.3.1#egg=oc_feed-0.3.1
+-e https://svn.openplans.org/svn/opencore/plugins/oc-piwik/trunk@22069#egg=oc_piwik-0.1dev-py2.4-dev
+-e https://svn.openplans.org/svn/opencore/plugins/oc-tt/trunk@20280#egg=oc_tt-0.1.2dev-py2.4-dev
+-f http://svn.openplans.org/eggs/plone.app.form-0.1dev_r15470-py2.4.egg
+-f https://svn.openplans.org/svn/vendor/geopy/openplans/dist/geopy-0.93_20071130-py2.4.egg
 FormEncode==1.0.1
 PIL==1.1.6
 Products.CMFSquidTool==1.5.1
@@ -11,26 +20,17 @@ Products.GenericSetup==1.4.1
 Products.PageCacheManager==1.2
 Products.PolicyHTTPCacheManager==1.2
 SQLObject==0.10.0b2
--e https://svn.openplans.org/svn/WSSEAuth/tags/0.1.1#egg=WSSEAuth-0.1.1
 borg.localrole==2.0.1
 collective.testing==0.3
 decorator==2.2.0
--e https://svn.openplans.org/svn/fassembler.configparser/tags/0.2#egg=fassembler.configparser-0.2
 feedparser==4.1
 five.intid==0.3.0
 five.localsitemanager==0.4
 flunc==0.4
--f https://svn.openplans.org/svn/vendor/geopy/openplans/dist/geopy-0.93_20071130-py2.4.egg
 geopy==0.93-20071130
 httplib2==0.4.0
 lxml==2.0.3
--e https://svn.openplans.org/svn/opencore/plugins/oc-cab/trunk@19754#egg=oc_cab-0.2dev-py2.4-dev
--e https://svn.openplans.org/svn/opencore/plugins/oc-feed/tags/0.3.1#egg=oc_feed-0.3.1
--e https://svn.openplans.org/svn/opencore/plugins/oc-piwik/trunk@22069#egg=oc_piwik-0.1dev-py2.4-dev
--e https://svn.openplans.org/svn/opencore/plugins/oc-tt/trunk@20280#egg=oc_tt-0.1.2dev-py2.4-dev
 oc-js==0.6.0
--e https://svn.openplans.org/svn/opencore/branches/0.16
--f http://svn.openplans.org/eggs/plone.app.form-0.1dev_r15470-py2.4.egg
 plone.fieldsets==1.0
 plone.mail==0.1dev
 plone.memoize==1.0.4
