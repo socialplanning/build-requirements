@@ -3,8 +3,8 @@ fassembler:topp
 fassembler:supervisor
 fassembler:deliverance
 fassembler:wordpress
+fassembler:cabochon
 fassembler:opencore
 fassembler:zeo
 fassembler:maildrop
-fassembler:cabochon
 fassembler:feedbacker
