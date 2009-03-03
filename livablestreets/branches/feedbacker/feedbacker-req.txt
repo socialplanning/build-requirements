@@ -2,7 +2,7 @@
 
 mysql-python
 zope.dottedname
-repoze.who==1.0.10
+-e http://svn.repoze.org/repoze.who/trunk#egg=repoze.who
 Amara==1.2.0.2
 atomixlib
 -e https://svn.openplans.org/svn/FeedBacker/trunk#egg=feedbacker-dev
