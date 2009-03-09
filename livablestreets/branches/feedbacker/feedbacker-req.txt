@@ -3,7 +3,5 @@
 mysql-python
 zope.dottedname
 -e http://svn.repoze.org/repoze.who/trunk#egg=repoze.who
-Amara==1.2.0.2
-atomixlib
 -e https://svn.openplans.org/svn/FeedBacker/trunk#egg=feedbacker-dev
 -e https://svn.openplans.org/svn/opencore/plugins/oc-who#egg=OpencoreWho
