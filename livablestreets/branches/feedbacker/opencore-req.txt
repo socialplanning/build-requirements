@@ -30,3 +30,4 @@ threadframe>=0.2
 PIL
 ClockServer
 geopy
+pysqlite
