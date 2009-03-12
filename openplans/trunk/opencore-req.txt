@@ -21,6 +21,6 @@ zinstall_packages = zcmlloader
 -f https://svn.openplans.org/svn/vendor/geopy/openplans/dist/geopy-0.93_20071130-py2.4.egg
 PIL>=1.1.6
 geopy
+pysqlite
 plonelibs>=3.0.6.2
 threadframe>=0.2
-
