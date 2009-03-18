@@ -27,7 +27,7 @@ zinstall_packages = sputnik
 -e https://svn.openplans.org/svn/opencore/plugins/oc-geotagging/tags/0.5.1
 -e https://svn.openplans.org/svn/opencore/plugins/oc-cab/branches/sputnik
 -e https://svn.openplans.org/svn/CabochonClient/trunk@23345
--e https://svn.openplans.org/svn/opencore/plugins/oc-piwik/tags/0.2.1#egg=oc_piwik
+-e https://svn.openplans.org/svn/opencore/plugins/oc-piwik/tags/0.2.2#egg=oc_piwik
 threadframe>=0.2
 PIL
 ClockServer
