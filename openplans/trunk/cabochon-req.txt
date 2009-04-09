@@ -1,4 +1,4 @@
--f https://svn.openplans.org/eggs/
 -e https://svn.openplans.org/svn/Cabochon/trunk
+-e https://svn.openplans.org/svn/WSSEAuth/trunk
 PasteScript
-mysql-python
+MySQL-python
