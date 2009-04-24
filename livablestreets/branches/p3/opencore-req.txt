@@ -1,4 +1,12 @@
-zinstall_packages = zcmlloader
+opencore_site_id = openplans
+opencore_site_title = Livable Streets
+email_from_address = support@livablestreets.com
+mailing_list_fqdn = lists.livablestreets.com
+ftests_path = opencore/src/sputnik/ftests
+zinstall_packages = sputnik
+                    streetswiki
+                    zcmlloader
+                    oc_piwik
 
 
 -Z
@@ -6,7 +14,7 @@ zinstall_packages = zcmlloader
 -e https://svn.openplans.org/svn/CabochonClient/trunk
 -e https://svn.openplans.org/svn/WSSEAuth/trunk
 -e https://svn.openplans.org/svn/ZCMLLoader/trunk
--e https://svn.openplans.org/svn/fassembler.configparser/tags/0.2
+-e https://svn.openplans.org/svn/fassembler.configparser/tags/0.2.1
 -e https://svn.openplans.org/svn/flunc/trunk
 -e https://svn.openplans.org/svn/opencore/plugins/oc-cab/trunk
 -e https://svn.openplans.org/svn/opencore/plugins/oc-feed/trunk
@@ -14,6 +22,8 @@ zinstall_packages = zcmlloader
 -e https://svn.openplans.org/svn/opencore/plugins/oc-wp/trunk
 -e https://svn.openplans.org/svn/opencore/plugins/oc-geotagging/trunk
 -e https://svn.openplans.org/svn/opencore/trunk
+-e https://svn.openplans.org/svn/sputnik/branches/p3
+-e https://svn.openplans.org/svn/StreetsWiki/trunk
 -e https://svn.openplans.org/svn/topp.featurelets/trunk
 -e https://svn.openplans.org/svn/topp.utils/trunk
 -f http://dist.repoze.org/PIL-1.1.6.tar.gz
