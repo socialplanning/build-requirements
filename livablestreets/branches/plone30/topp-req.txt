@@ -1,4 +1,0 @@
-projtxt = group
-projprefs = Manage
-streetsblog_uri = http://dev.streetsblog.org
-streetfilms_uri = http://dev.streetfilms.org
