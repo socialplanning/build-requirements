@@ -1,2 +1,0 @@
-projtxt = group
-projprefs = preferences
