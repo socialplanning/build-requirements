@@ -25,3 +25,4 @@ geopy
 plonelibs>=3.0.6.2
 threadframe>=0.2
 plone.memoize==1.0.4
+five.intid==0.4.1
