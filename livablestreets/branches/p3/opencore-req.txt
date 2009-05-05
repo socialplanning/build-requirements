@@ -6,7 +6,6 @@ ftests_path = opencore/src/sputnik/ftests
 zinstall_packages = sputnik
                     streetswiki
                     zcmlloader
-                    oc_piwik
 
 
 -Z
