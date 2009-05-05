@@ -41,7 +41,6 @@ topp.utils==0.5
 twill==0.9
 uuid==1.30
 zope.dottedname==3.4.5
-zope.i18n==3.4.0
 
 # In order to use zinstall, we need the package source so we can get
 # at its setup.py. This is annoying, but I don't know what to do about
