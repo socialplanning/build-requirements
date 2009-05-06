@@ -6,10 +6,13 @@
 -e https://svn.openplans.org/svn/WSSEAuth/tags/0.1.1#egg=WSSEAuth-0.1.1
 -e https://svn.openplans.org/svn/fassembler.configparser/tags/0.2#egg=fassembler.configparser-0.2
 -e https://svn.openplans.org/svn/opencore/branches/0.17
+
 -e https://svn.openplans.org/svn/opencore/plugins/oc-cab/trunk@19754#egg=oc_cab-0.2dev-py2.4-dev
 -e https://svn.openplans.org/svn/opencore/plugins/oc-feed/tags/0.4#egg=oc_feed-0.4
 -e https://svn.openplans.org/svn/opencore/plugins/oc-piwik/trunk@22069#egg=oc_piwik-0.1dev-py2.4-dev
 -e https://svn.openplans.org/svn/opencore/plugins/oc-tt/trunk@20280#egg=oc_tt-0.1.2dev-py2.4-dev
+-e https://svn.openplans.org/svn/opencore/plugins/oc-wp/trunk@23792#egg=oc_wp-dev
+
 -f http://svn.openplans.org/eggs/plone.app.form-0.1dev_r15470-py2.4.egg
 -f https://svn.openplans.org/svn/vendor/geopy/openplans/dist/geopy-0.93_20071130-py2.4.egg
 FormEncode==1.0.1
