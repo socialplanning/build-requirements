@@ -23,6 +23,7 @@ zinstall_packages = sputnik
 -e https://svn.openplans.org/svn/ZCMLLoader/trunk@14130
 -e https://svn.openplans.org/svn/opencore/plugins/oc-feed/tags/pre-p3-merge
 -e https://svn.openplans.org/svn/opencore/plugins/oc-vacuum/trunk@19274
+-e https://svn.openplans.org/svn/oc-js/tags/0.6.3#egg=oc_js
 -e https://svn.openplans.org/svn/fassembler.configparser/tags/0.2.1
 -e https://svn.openplans.org/svn/opencore/plugins/oc-geotagging/tags/0.5.1
 -e https://svn.openplans.org/svn/opencore/plugins/oc-cab/branches/sputnik@23786
