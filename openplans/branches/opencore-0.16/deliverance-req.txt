@@ -9,6 +9,7 @@ rules_repo = https://svn.openplans.org/svn/build/rules/openplans
 -e https://svn.openplans.org/svn/signedheaders/trunk
 -e http://svn.pythonpaste.org/Paste/WSGIFilter/trunk
 -e https://svn.openplans.org/svn/timingmiddleware/trunk
+-e https://svn.openplans.org/svn/transcluder/trunk@24045
 PasteScript
 Pylons>=0.9.6.2
 simplejson>=1.8.1
