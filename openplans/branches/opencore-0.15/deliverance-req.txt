@@ -2,7 +2,7 @@
 # Transcluder needs this, and the link isn't picked up right be easy_install:
 -f http://superb-west.dl.sourceforge.net/sourceforge/pyavl/pyavl-1.1.tar.gz#egg=pyavl-dev
 
--e https://svn.openplans.org/svn/transcluder/trunk@21463
+-e https://svn.openplans.org/svn/transcluder/trunk@24045
 
 # More recent versions of Pylons cause conflicts on FormEncode.
 Pylons==0.9.7rc2
