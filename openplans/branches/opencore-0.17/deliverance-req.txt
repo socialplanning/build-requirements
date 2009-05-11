@@ -1,6 +1,7 @@
 rules_repo = https://svn.openplans.org/svn/build/rules/openplans
 
 -f https://svn.openplans.org/eggs/
+
 # Transcluder needs this, and the link isn't picked up right be easy_install:
 -f http://superb-west.dl.sourceforge.net/sourceforge/pyavl/pyavl-1.1.tar.gz#egg=pyavl-dev
 -e http://codespeak.net/svn/z3/deliverance/DeliveranceVHoster/trunk
@@ -9,8 +10,9 @@ rules_repo = https://svn.openplans.org/svn/build/rules/openplans
 -e https://svn.openplans.org/svn/signedheaders/trunk
 -e http://svn.pythonpaste.org/Paste/WSGIFilter/trunk
 -e https://svn.openplans.org/svn/timingmiddleware/trunk
+-e https://svn.openplans.org/svn/transcluder/trunk@24045
 PasteScript
-Pylons>=0.9.6.2
+Pylons==0.9.7
 simplejson>=1.8.1
 # cython 0.11 breaks lxml 2.0.3.
 cython<0.11
