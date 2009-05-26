@@ -11,4 +11,9 @@ fassembler:i18ndude
 fassembler:zeo
 fassembler:maildrop
 fassembler:henge
-fassembler:errorlistener
+
+# Errorlistener as currently configured is only appropriate if A) your site
+# should send all error messages to trac.openplans.org, and B) if the
+# trac instance is actually doing something useful with the messages.
+# A) is only true for TOPP and B) doesn't appear to be true at all.
+#fassembler:errorlistener
