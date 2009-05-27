@@ -13,6 +13,7 @@ zinstall_packages = zcmlloader
 -e https://svn.openplans.org/svn/opencore/plugins/oc-tt/trunk
 -e https://svn.openplans.org/svn/opencore/plugins/oc-wp/trunk
 -e https://svn.openplans.org/svn/opencore/plugins/oc-geotagging/trunk
+-e https://svn.openplans.org/svn/opencore/plugins/oc-vacuum/trunk
 -e https://svn.openplans.org/svn/opencore/trunk
 -e https://svn.openplans.org/svn/topp.featurelets/trunk
 -e https://svn.openplans.org/svn/topp.utils/trunk
