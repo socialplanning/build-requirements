@@ -8,6 +8,7 @@ zinstall_packages = zcmlloader
 -e https://svn.openplans.org/svn/ZCMLLoader/trunk
 -e https://svn.openplans.org/svn/fassembler.configparser/tags/0.2
 -e https://svn.openplans.org/svn/flunc/trunk
+-e https://svn.openplans.org/svn/oc-js/trunk
 -e https://svn.openplans.org/svn/opencore/plugins/oc-cab/trunk
 -e https://svn.openplans.org/svn/opencore/plugins/oc-feed/trunk
 -e https://svn.openplans.org/svn/opencore/plugins/oc-tt/trunk
