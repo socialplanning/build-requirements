@@ -1,3 +1,0 @@
--f https://svn.openplans.org/eggs
--e https://svn.openplans.org/svn/SupervisorErrorListener/trunk
-
