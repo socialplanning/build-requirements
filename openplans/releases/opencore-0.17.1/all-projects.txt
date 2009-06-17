@@ -10,5 +10,3 @@ fassembler:opencore
 fassembler:i18ndude
 fassembler:zeo
 fassembler:maildrop
-fassembler:henge
-fassembler:errorlistener
