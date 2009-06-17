@@ -57,5 +57,5 @@ zope.dottedname==3.4.5
 -e https://svn.openplans.org/svn/ZCMLLoader/tags/0.1#egg=ZCMLLoader-0.1
 zinstall_packages=zcmlloader
 
-# Remove this if you're not actually building openplans.org :)
+# Remove this if you're not actually building coactivate.org :)
 -e https://svn.openplans.org/svn/sites/www.coactivate.org/trunk#egg=CoActivateOrg
