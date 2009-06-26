@@ -5,7 +5,7 @@
 -e https://svn.openplans.org/svn/OpencoreRedirect/tags/0.5#egg=OpencoreRedirect-0.5
 -e https://svn.openplans.org/svn/WSSEAuth/tags/0.1.1#egg=WSSEAuth-0.1.1
 -e https://svn.openplans.org/svn/fassembler.configparser/tags/0.2.1#egg=fassembler.configparser-0.2.1
--e https://svn.openplans.org/svn/opencore/branches/0.17@24742#egg=opencore-0.17
+-e https://svn.openplans.org/svn/opencore/branches/0.17@24754#egg=opencore-0.17
 
 -e https://svn.openplans.org/svn/opencore/plugins/oc-cab/trunk@19754#egg=oc_cab-0.2dev-py2.4-dev
 -e https://svn.openplans.org/svn/opencore/plugins/oc-feed/tags/0.4#egg=oc_feed-0.4
