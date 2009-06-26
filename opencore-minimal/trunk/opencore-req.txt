@@ -16,8 +16,6 @@ threadframe>=0.2
 plonelibs>=3.0.6.2
 plone.memoize==1.0.4
 five.intid==0.4.1
-ZODB3==3.8.1  # needed by zc.async but undeclared.
-zope.proxy==3.5.0  # 3.4 or later needed to use ZODB 3.8.1
 
 # In order to use zinstall, we need the package source so we can get
 # at its setup.py. This is annoying, but I don't know what to do about
