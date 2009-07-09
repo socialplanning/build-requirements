@@ -2,6 +2,6 @@
 
 mysql-python
 zope.dottedname
--e https://svn.openplans.org/svn/FeedBacker/branches/profile-feedacker#egg=feedbacker-dev
+-e https://svn.openplans.org/svn/FeedBacker/branches/profile-feedbacker#egg=feedbacker-dev
 -e https://svn.openplans.org/svn/opencore/plugins/oc-who/branches/profile-feedbacker#egg=OpencoreWho
 -e https://svn.openplans.org/svn/FeedBacker/plugins/fb-opencore/branches/profile-feedbacker#egg=FBOpencore
