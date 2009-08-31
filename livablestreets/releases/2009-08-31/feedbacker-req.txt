@@ -2,7 +2,7 @@
 
 mysql-python
 zope.dottedname
--e http://svn.repoze.org/repoze.who/trunk@3630#egg=repoze.who
--e https://svn.openplans.org/svn/FeedBacker/trunk#egg=feedbacker-dev
--e https://svn.openplans.org/svn/opencore/plugins/oc-who/trunk#egg=OpencoreWho
--e https://svn.openplans.org/svn/FeedBacker/plugins/fb-opencore/trunk#egg=FBOpencore
+repoze.who==1.0.15
+-e https://svn.openplans.org/svn/FeedBacker/trunk@25375#egg=feedbacker-dev
+-e https://svn.openplans.org/svn/opencore/plugins/oc-who/trunk@25372#egg=OpencoreWho
+-e https://svn.openplans.org/svn/FeedBacker/plugins/fb-opencore/trunk@25371#egg=FBOpencore
