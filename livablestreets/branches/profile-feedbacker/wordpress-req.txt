@@ -1,2 +1,0 @@
-wordpress_repo = https://svn.openplans.org/svn/vendor/wordpress-mu/openplans/branches/feedbacker
-topp_wordpress_theme = livablestreets
