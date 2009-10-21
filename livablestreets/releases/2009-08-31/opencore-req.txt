@@ -19,7 +19,7 @@ zinstall_packages = sputnik
 -e https://svn.openplans.org/svn/topp.featurelets/tags/pre-p3-merge
 -e https://svn.openplans.org/svn/topp.utils/tags/0.5.1
 -e https://svn.openplans.org/svn/WSSEAuth/tags/0.1.1#egg=wsseauth
--e https://svn.openplans.org/svn/sputnik/branches/0.9.8@25691
+-e https://svn.openplans.org/svn/sputnik/branches/0.9.8@25777
 -e https://svn.openplans.org/svn/StreetsWiki/trunk@25299
 -e https://svn.openplans.org/svn/ZCMLLoader/trunk@14130
 -e https://svn.openplans.org/svn/opencore/plugins/oc-feed/tags/pre-p3-merge
