@@ -9,8 +9,7 @@
 
 five.localsitemanager==0.4
 
--f http://svn.openplans.org/eggs/plone.app.form-0.1dev_r15470-py2.4.egg
-plone.app.form==0.1dev-r15470
+plone.app.form==1.0.4
 
 -f https://svn.openplans.org/svn/vendor/geopy/openplans/dist/geopy-0.93_20071130-py2.4.egg
 geopy
