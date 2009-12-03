@@ -3,7 +3,7 @@
 
 -e https://svn.openplans.org/svn/OpencoreRedirect/tags/0.5#egg=OpencoreRedirect-0.5
 -e https://svn.openplans.org/svn/fassembler.configparser/tags/0.2.1#egg=fassembler.configparser-0.2.1
--e https://svn.openplans.org/svn/opencore/branches/0.18
+-e https://svn.openplans.org/svn/opencore/tags/0.18.0rc1
 
 -e https://svn.openplans.org/svn/opencore/plugins/oc-feed/trunk
 
@@ -35,11 +35,11 @@ flunc
 plone.fieldsets==1.0
 
 -f https://svn.openplans.org/eggs/twill-0.9.tar.gz#egg=twill
+twill
 
 plone.mail==0.1dev
 plonelibs==3.0.6.3
 python-dateutil==1.3
-twill==0.9
 
 uuid==1.30
 zope.dottedname==3.4.5
@@ -49,7 +49,6 @@ zope.dottedname==3.4.5
 -e https://svn.openplans.org/svn/WSSEAuth/trunk
 
 threadframe>=0.2
-plonelibs>=3.0.6.2
 
 # In order to use zinstall, we need the package source so we can get
 # at its setup.py. This is annoying, but I don't know what to do about
