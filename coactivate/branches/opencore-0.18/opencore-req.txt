@@ -69,12 +69,9 @@ SQLObject==0.10.0b2
 -e https://svn.openplans.org/svn/ZCMLLoader/trunk
 zinstall_packages=zcmlloader
 
-
-
 -e https://svn.openplans.org/svn/opencore/plugins/oc-piwik/trunk
 
 httplib2==0.4.0
 lxml==2.0.3
 
-# Remove this if you're not actually building coactivate.org :)
--e https://svn.openplans.org/svn/sites/www.coactivate.org/trunk#egg=CoActivateOrg
+-e https://svn.openplans.org/svn/opencore/themes/avata#egg=oc-themes-avata
