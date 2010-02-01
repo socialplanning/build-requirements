@@ -17,6 +17,10 @@
 -f https://svn.openplans.org/svn/vendor/geopy/openplans/dist/geopy-0.93_20071130-py2.4.egg
 FormEncode==1.0.1
 PIL==1.1.6
+
+# Do five.localsitemanager early to avoid version errors
+five.localsitemanager==0.4
+
 Products.CMFSquidTool==1.5.1
 Products.CacheSetup==1.2
 Products.GenericSetup==1.4.1
@@ -28,7 +32,6 @@ collective.testing==0.3
 decorator==2.2.0
 feedparser==4.1
 five.intid==0.3.0
-five.localsitemanager==0.4
 flunc==0.5
 geopy==0.93-20071130
 httplib2==0.4.0
