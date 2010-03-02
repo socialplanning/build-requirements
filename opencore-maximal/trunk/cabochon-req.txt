@@ -4,3 +4,4 @@ webhelpers==0.6.4
 PasteScript
 mysql-python
 Beaker==1.5.1
+Routes==1.11
