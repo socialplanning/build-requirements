@@ -1,5 +1,7 @@
 -f https://svn.openplans.org/eggs/
 webhelpers==0.6.4
 -e https://svn.openplans.org/svn/Cabochon/trunk
-PasteScript
-mysql-python
+Paste==1.7.2
+PasteScript==1.7.3
+PasteDeploy==1.3.3
+mysql-python==1.2.2
