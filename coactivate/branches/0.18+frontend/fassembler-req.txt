@@ -1,2 +1,2 @@
-http://socialplanning-opencore.googlecode.com/svn/fassembler/projects/trunk
+opencore-fassembler_projects
 
