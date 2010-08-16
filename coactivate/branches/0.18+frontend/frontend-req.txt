@@ -1,0 +1,8 @@
+-e https://svn.openplans.org/svn/opencore/libopencore/trunk
+Deliverance==0.3
+WebOb
+WSGIFilter
+WSGIProxy
+setuptools
+-e https://svn.openplans.org/svn/eyvind/trunk
+-e https://svn.openplans.org/svn/transcluder/trunk
