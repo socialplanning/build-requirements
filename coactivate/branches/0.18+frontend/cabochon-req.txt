@@ -10,7 +10,6 @@ PasteScript==1.7.3
 Pylons==0.9.6.2
 Routes==1.10.3
 SQLObject==0.10.0b2
-SupervisorErrorMiddleware==0.0.0
 Tempita==0.2
 WSGIUtils==0.7
 WSSEAuth==0.1.1
@@ -23,3 +22,4 @@ restclient==0.9.8
 simplejson==1.7.4
 -e svn+https://svn.openplans.org/svn/Cabochon/trunk@22888
 -e svn+https://svn.openplans.org/svn/DevAuth/trunk@21893
+-e svn+https://svn.openplans.org/svn/SupervisorErrorMiddleware/trunk/
