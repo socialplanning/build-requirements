@@ -1,5 +1,5 @@
 -e https://svn.openplans.org/svn/opencore/libopencore/trunk
-Deliverance==0.3
+-e http://codespeak.net/svn/z3/deliverance/trunk
 WebOb
 WSGIFilter
 WSGIProxy
