@@ -1,7 +1,7 @@
 # This lists all the projects that make up the standard build
 fassembler:topp
 fassembler:supervisor
-fassembler:deliverance
+opencore-fassembler_projects:frontend
 fassembler:cabochon
 fassembler:twirlip
 fassembler:tasktracker
