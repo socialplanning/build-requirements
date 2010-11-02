@@ -1,5 +1,6 @@
 -f https://svn.openplans.org/eggs/
 webhelpers==0.6.4
+-e https://svn.socialplanning.org/svn/SupervisorErrorMiddleware/trunk
 -e https://svn.socialplanning.org/svn/Cabochon/trunk
 Paste==1.7.2
 PasteScript==1.7.3
