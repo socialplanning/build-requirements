@@ -2,8 +2,9 @@
 # This avoids a version conflict later:
 decorator>=2.1.0
 webhelpers==0.6.4
--e https://svn.socialplanning.org/svn/Twirlip/trunk
+-e https://svn.socialplanning.org/svn/SupervisorErrorMiddleware/trunk
 -e https://svn.socialplanning.org/svn/cookieauth/trunk
+-e https://svn.socialplanning.org/svn/Twirlip/trunk
 Routes==1.11 
 Paste==1.7.2
 PasteScript==1.7.3
