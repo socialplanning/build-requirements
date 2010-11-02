@@ -1,4 +1,4 @@
-rules_repo = https://svn.openplans.org/svn/build/rules/openplans
+rules_repo = https://svn.socialplanning.org/svn/build/rules/openplans
 
 -f https://svn.openplans.org/eggs/
 
@@ -9,10 +9,10 @@ enum
 
 -e http://codespeak.net/svn/z3/deliverance/DeliveranceVHoster/trunk
 -e http://codespeak.net/svn/z3/deliverance/branches/0.2
--e https://svn.openplans.org/svn/eyvind/trunk
--e https://svn.openplans.org/svn/signedheaders/trunk
+-e https://svn.socialplanning.org/svn/eyvind/trunk
+-e https://svn.socialplanning.org/svn/signedheaders/trunk
 -e http://svn.pythonpaste.org/Paste/WSGIFilter/trunk
--e https://svn.openplans.org/svn/timingmiddleware/trunk
+-e https://svn.socialplanning.org/svn/timingmiddleware/trunk
 PasteScript
 Pylons>=0.9.6.2
 simplejson>=1.8.1
