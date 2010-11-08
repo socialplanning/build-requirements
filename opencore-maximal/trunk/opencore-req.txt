@@ -5,7 +5,7 @@
 
 -e https://svn.socialplanning.org/svn/OpencoreRedirect/tags/0.5#egg=OpencoreRedirect-0.5
 -e https://svn.socialplanning.org/svn/fassembler.configparser/tags/0.2.1#egg=fassembler.configparser-0.2.1
--e https://svn.socialplanning.org/svn/opencore/branches/0.18
+-e https://svn.socialplanning.org/svn/opencore/trunk
 
 -e https://svn.socialplanning.org/svn/opencore/plugins/oc-feed/trunk
 
