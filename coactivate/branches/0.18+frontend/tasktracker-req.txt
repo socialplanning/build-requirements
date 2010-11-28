@@ -1,3 +1,4 @@
+-e https://svn.socialplanning.org/svn/SupervisorErrorMiddleware/trunk
 -e https://svn.socialplanning.org/svn/TaskTracker/trunk
 -e https://svn.socialplanning.org/svn/CabochonClient/trunk
 Paste==1.7.2
