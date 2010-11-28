@@ -19,6 +19,6 @@ httplib2>=0.4.0
 nose==0.10.4
 restclient==0.9.8
 simplejson==1.7.4
--e svn+https://svn.openplans.org/svn/Cabochon/trunk@22888#egg=Cabochon
--e svn+https://svn.openplans.org/svn/DevAuth/trunk@21893#egg=DevAuth
--e svn+https://svn.openplans.org/svn/SupervisorErrorMiddleware/trunk/#egg=SupervisorErrorMiddleware
+-e svn+https://svn.socialplanning.org/svn/Cabochon/trunk@22888#egg=Cabochon
+DevAuth
+-e svn+https://svn.socialplanning.org/svn/SupervisorErrorMiddleware/trunk/#egg=SupervisorErrorMiddleware
