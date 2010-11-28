@@ -17,7 +17,7 @@ WebOb==0.9.6.1
 decorator==3.0.0
 httplib2>=0.4.0
 nose==0.10.4
-restclient==0.9.8
+http://pypi.python.org/packages/source/r/restclient/restclient-0.9.8.tar.gz
 simplejson==1.7.4
 -e svn+https://svn.socialplanning.org/svn/Cabochon/trunk@22888#egg=Cabochon
 DevAuth
