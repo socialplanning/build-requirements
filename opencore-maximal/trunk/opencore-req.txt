@@ -36,7 +36,8 @@ collective.testing==0.3
 decorator==2.2.0
 feedparser==4.1
 five.intid==0.3.0
-flunc
+
+-e https://svn.socialplanning.org/svn/flunc/trunk
 
 -e https://svn.socialplanning.org/svn/oc-js/trunk
 
