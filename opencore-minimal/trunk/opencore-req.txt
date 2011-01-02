@@ -32,8 +32,8 @@ collective.testing==0.3
 decorator==2.2.0
 feedparser==4.1
 five.intid==0.4.1
-flunc
 
+-e https://svn.socialplanning.org/svn/flunc/trunk
 
 plone.fieldsets==1.0
 
