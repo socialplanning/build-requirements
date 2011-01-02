@@ -63,5 +63,5 @@ zinstall_packages=zcmlloader
 # We install listen as an editable checkout, but it might also be in the bundle.
 # So we just remove it from the bundle, to make sure the right listen is used.
 # If it's not present in the bundle, nothing will break, because it's an `rm -rf`.
--e https://svn.socialplanning.org/svn/vendor/Products.listen/branches/vendor-0.6/
+-e https://svn.socialplanning.org/svn/opencore-listen/trunk
 remove_products=listen
