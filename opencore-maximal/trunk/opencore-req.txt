@@ -77,3 +77,7 @@ zinstall_packages=zcmlloader
 # If it's not present in the bundle, nothing will break, because it's an `rm -rf`.
 -e https://svn.socialplanning.org/svn/opencore-listen/trunk
 remove_products=listen
+
+bzr
+SQLAlchemy
+-e https://svn.socialplanning.org/svn/sven/trunk
