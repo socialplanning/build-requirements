@@ -1,4 +1,5 @@
 -f https://svn.openplans.org/eggs/
+http://pypi.python.org/packages/source/S/SQLObject/SQLObject-0.15.0.tar.gz
 webhelpers==0.6.4
 -e https://svn.socialplanning.org/svn/SupervisorErrorMiddleware/trunk
 -e https://svn.socialplanning.org/svn/Cabochon/trunk

@@ -9,6 +9,7 @@
 
 -e https://svn.socialplanning.org/svn/opencore/plugins/oc-feed/trunk
 
+http://pypi.python.org/packages/source/r/restclient/restclient-0.10.1.tar.gz
 -e https://svn.socialplanning.org/svn/opencore/plugins/oc-cab/trunk
 -e https://svn.socialplanning.org/svn/opencore/plugins/oc-tt/trunk
 -e https://svn.socialplanning.org/svn/opencore/plugins/oc-wp/trunk
@@ -59,7 +60,7 @@ zope.dottedname==3.4.5
 
 threadframe>=0.2
 
-pysqlite==2.4.0
+http://pypi.python.org/packages/source/p/pysqlite/pysqlite-2.6.0.tar.gz
 restclient==0.9.8
 simplejson==1.7.4
 FormEncode==1.0.1

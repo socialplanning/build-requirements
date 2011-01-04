@@ -9,11 +9,11 @@ mysql-python
 
 # these three are required by pylons but the build doesn't pull them down
 # XXX this is brittle 
+http://pypi.python.org/packages/source/W/WebHelpers/WebHelpers-0.3.4.tar.gz
 python-dateutil
 simplejson==2.0.9
 Mako>=0.1.10
 nose>=0.9.3
-WebHelpers>=0.3.2,<0.6.dev
 decorator<3.0.0
 Beaker==1.5.1
 WebOb
