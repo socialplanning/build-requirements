@@ -1,3 +1,6 @@
+# Some silly link somewhere causes 0.16-dev to be installed unless we specify:
+SQLObject==0.15.0
+
 -e https://svn.socialplanning.org/svn/SupervisorErrorMiddleware/trunk
 -e https://svn.socialplanning.org/svn/TaskTracker/trunk
 -e https://svn.socialplanning.org/svn/CabochonClient/trunk
