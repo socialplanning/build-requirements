@@ -1,5 +1,8 @@
-# Some silly link somewhere causes 0.16-dev to be installed unless we specify:
-SQLObject==0.15.0
+# Some silly link somewhere causes 0.16-dev to be installed unless we specify.
+# The last release, 0.15.0, seems to have changed something about sqlobject.events
+# which causes tasktracker.lib.eventserver.taskCreated to fail because of
+# an incorrect signature.
+SQLObject==0.14.1
 
 -e https://svn.socialplanning.org/svn/SupervisorErrorMiddleware/trunk
 -e https://svn.socialplanning.org/svn/TaskTracker/trunk
