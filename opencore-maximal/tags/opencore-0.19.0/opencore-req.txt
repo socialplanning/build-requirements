@@ -11,8 +11,8 @@
 
 http://pypi.python.org/packages/source/r/restclient/restclient-0.10.1.tar.gz
 -e https://svn.socialplanning.org/svn/opencore/plugins/oc-cab/trunk
--e https://svn.socialplanning.org/svn/opencore/plugins/oc-tt/trunk
--e https://svn.socialplanning.org/svn/opencore/plugins/oc-wp/trunk
+-e https://svn.socialplanning.org/svn/opencore/plugins/oc-tt/tags/0.1.2
+-e https://svn.socialplanning.org/svn/opencore/plugins/oc-wp/tags/0.3
 
 five.localsitemanager==0.4
 
@@ -38,9 +38,9 @@ decorator==2.2.0
 feedparser==4.1
 five.intid==0.3.0
 
--e https://svn.socialplanning.org/svn/flunc/trunk
+flunc==0.8
 
--e https://svn.socialplanning.org/svn/oc-js/trunk
+-e https://svn.socialplanning.org/svn/oc-js/tags/0.8
 
 plone.fieldsets==1.0
 
@@ -76,9 +76,9 @@ zinstall_packages=zcmlloader
 # We install listen as an editable checkout, but it might also be in the bundle.
 # So we just remove it from the bundle, to make sure the right listen is used.
 # If it's not present in the bundle, nothing will break, because it's an `rm -rf`.
--e https://svn.socialplanning.org/svn/opencore-listen/trunk
+opencore-listen==0.8.0
 remove_products=listen
 
 bzr
 SQLAlchemy
--e https://svn.socialplanning.org/svn/sven/trunk
+sven==0.9
