@@ -1,5 +1,5 @@
--e https://svn.socialplanning.org/svn/opencore/libopencore/trunk
--e http://codespeak.net/svn/z3/deliverance/trunk
+libopencore==0.6
+Deliverance==0.4.2
 WebOb
 WSGIFilter
 WSGIProxy
