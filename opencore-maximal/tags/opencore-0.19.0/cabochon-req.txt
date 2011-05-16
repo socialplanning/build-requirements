@@ -1,6 +1,7 @@
 -f https://svn.openplans.org/eggs/
 http://pypi.python.org/packages/source/S/SQLObject/SQLObject-0.15.0.tar.gz
 webhelpers==0.6.4
+http://pypi.python.org/packages/source/r/restclient/restclient-0.10.1.tar.gz
 -e https://svn.socialplanning.org/svn/SupervisorErrorMiddleware/trunk
 -e https://svn.socialplanning.org/svn/Cabochon/trunk
 Paste==1.7.2
