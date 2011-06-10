@@ -1,4 +1,4 @@
--f https://svn.openplans.org/eggs/
+-f https://dist.socialplanning.org/eggs/
 # This avoids a version conflict later:
 decorator>=2.1.0
 # Some silly link somewhere causes 0.16-dev to be installed unless we specify:
@@ -10,7 +10,7 @@ webhelpers==0.6.4
 Routes==1.11 
 Paste==1.7.2
 PasteScript==1.7.3
-PasteDeploy>=1.3.3
 mysql-python
 simplejson
 Beaker==1.5.1
+PasteDeploy==1.3.4

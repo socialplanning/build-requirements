@@ -79,6 +79,6 @@ zinstall_packages=zcmlloader
 opencore-listen==0.8.0
 remove_products=listen
 
-bzr
+bzr==2.3.3
 SQLAlchemy
 sven==0.9
