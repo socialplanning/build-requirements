@@ -1,3 +1,5 @@
+--find-links http://dist.socialplanning.org/eggs
+
 # Some silly link somewhere causes 0.16-dev to be installed unless we specify.
 # The last release, 0.15.0, seems to have changed something about sqlobject.events
 # which causes tasktracker.lib.eventserver.taskCreated to fail because of
@@ -19,6 +21,7 @@ Routes==1.11
 -e https://svn.socialplanning.org/svn/SupervisorErrorMiddleware/trunk
 -e https://svn.socialplanning.org/svn/TaskTracker/trunk
 -e https://svn.socialplanning.org/svn/CabochonClient/trunk
+-e https://svn.socialplanning.org/svn/CabochonServer/trunk
 Paste==1.7.2
 PasteScript==1.7.3
 PasteDeploy==1.3.4
