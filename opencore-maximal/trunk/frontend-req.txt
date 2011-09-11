@@ -1,8 +1,8 @@
--e https://svn.socialplanning.org/svn/opencore/libopencore/trunk
+-e git@github.com:socialplanning/libopencore.git
 -e http://codespeak.net/svn/z3/deliverance/trunk
 WebOb
 WSGIFilter
 WSGIProxy
 setuptools
--e https://svn.socialplanning.org/svn/eyvind/trunk
--e https://svn.socialplanning.org/svn/transcluder/trunk
+-e git@github.com:socialplanning/eyvind.git
+-e git@github.com:socialplanning/transcluder.git
