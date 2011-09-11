@@ -5,8 +5,8 @@ WebOb==1.0.8
 -f http://dist.socialplanning.org/eggs/
 http://pypi.python.org/packages/source/S/SQLObject/SQLObject-0.15.0.tar.gz
 webhelpers==0.6.4
--e git+git@github.com:socialplanning/SupervisorErrorMiddleware.git
--e git+git@github.com:socialplanning/Cabochon.git
+-e git+git@github.com:socialplanning/SupervisorErrorMiddleware.git#egg=SupervisorErrorMiddleware-dev
+-e git+git@github.com:socialplanning/Cabochon.git#egg=Cabochon-dev
 mysql-python
 Beaker==1.5.1
 Routes==1.11
