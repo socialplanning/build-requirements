@@ -1,8 +1,8 @@
--e git@github.com:socialplanning/libopencore.git
--e http://codespeak.net/svn/z3/deliverance/trunk
+-e git+git@github.com:socialplanning/libopencore.git#egg=libopencore-dev
+-e git+git@github.com:deliverance/Deliverance.git#egg=Deliverance-dev
 WebOb
 WSGIFilter
 WSGIProxy
 setuptools
--e git@github.com:socialplanning/eyvind.git
--e git@github.com:socialplanning/transcluder.git
+-e git+git@github.com:socialplanning/eyvind.git#egg=eyvind-dev
+-e git+git@github.com:socialplanning/transcluder.git#egg=transcluder-dev
