@@ -4,6 +4,7 @@ decorator>=2.1.0
 # Some silly link somewhere causes 0.16-dev to be installed unless we specify:
 SQLObject==0.15.0
 webhelpers==0.6.4
+-e git+git@github.com:socialplanning/CabochonServer.git#egg=CabochonServer-dev
 -e git+git@github.com:socialplanning/SupervisorErrorMiddleware.git#egg=SupervisorErrorMiddleware-dev
 -e git+git@github.com:socialplanning/cookieauth.git#egg=cookieauth-dev
 -e git+git@github.com:socialplanning/Twirlip.git#egg=Twirlip-dev
