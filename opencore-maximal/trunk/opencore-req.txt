@@ -5,7 +5,7 @@
 
 -e git+git@github.com:socialplanning/OpencoreRedirect.git@0.5#egg=OpencoreRedirect-0.5
 
--e git+git@github.com:socialplanning/fassembler.configparser.git@0.2.1#fassembler.configparser-0.2.1
+-e git+git@github.com:socialplanning/fassembler.configparser.git@0.2.1#egg=fassembler.configparser-0.2.1
 
 -e git+git@github.com:socialplanning/opencore.git#egg=opencore-dev
 
@@ -82,6 +82,8 @@ zinstall_packages=zcmlloader
 -e git+git@github.com:socialplanning/opencore-listen.git#egg=opencore-listen.git
 remove_products=listen
 
-bzr
+-f https://launchpad.net/bzr/2.3
+bzr==2.3.4
+#http://launchpad.net/bzr/2.3/2.3.4/+download/bzr-2.3.4.tar.gz#egg=bzr-2.3.4
 SQLAlchemy
 -e git+git@github.com:socialplanning/sven.git#egg=sven-dev
