@@ -22,9 +22,9 @@ plone.app.form==1.0.4
 
 lxml==2.2.6
 
-#geopy is only needed for the i-think-unused oc-geo plugin
-#-f https://svn.socialplanning.org/svn/vendor/geopy/openplans/dist/geopy-0.93_20071130-py2.4.egg
-#geopy
+#geopy is only needed for the i-think-unused oc-geo plugin .. but PleiadesGeocoder is linked into the bundle and has a hard dependency on it
+# http://dist.socialplanning.org/eggs/geopy-0.93_20071130-py2.4.egg
+# but we install it separately
 
 PIL==1.1.6
 Products.CMFSquidTool==1.5.1
@@ -55,7 +55,8 @@ plonelibs==3.0.6.3
 python-dateutil==1.3
 
 uuid==1.30
-zope.dottedname==3.4.5
+-e svn+http://svn.zope.org/repos/main/zope.dottedname/tags/3.4.5#egg=zope.dottedname-3.4.5
+-e git+git@github.com:socialplanning/zope.i18n.git#egg=zope.i18n-3.7.2opencore
 
 -e git+git@github.com:socialplanning/topp.featurelets.git#egg=topp.featurelets-dev
 -e git+git@github.com:socialplanning/topp.utils.git#egg=topp.utils-dev
