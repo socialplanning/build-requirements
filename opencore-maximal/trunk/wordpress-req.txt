@@ -1,2 +1,2 @@
-wordpress_repo = https://svn.socialplanning.org/svn/vendor/wordpress-mu/openplans/trunk
+wordpress_repo = https://svn.github.com/socialplanning/opencore-wordpress-mu
 topp_wordpress_theme = openplans
