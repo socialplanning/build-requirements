@@ -77,6 +77,10 @@ SQLObject==0.10.0b2
 -e git+git@github.com:socialplanning/ZCMLLoader.git#egg=ZCMLLoader-dev
 zinstall_packages=zcmlloader
 
+-f https://github.com/socialplanning/Products.OFolder/tarball/master#egg=Products.OFolder-0.1vendor
+-f https://github.com/socialplanning/Products.MailBoxer/tarball/master#egg=Products.MailBoxer-0.1vendor
+-f https://github.com/socialplanning/Products.ManageableIndex/tarball/master#egg=Products.ManageableIndex-0.1vendor
+
 # We install listen as an editable checkout, but it might also be in the bundle.
 # So we just remove it from the bundle, to make sure the right listen is used.
 # If it's not present in the bundle, nothing will break, because it's an `rm -rf`.
