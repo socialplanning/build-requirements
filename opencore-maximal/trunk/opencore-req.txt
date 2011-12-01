@@ -15,6 +15,7 @@ http://pypi.python.org/packages/source/r/restclient/restclient-0.10.1.tar.gz
 -e git+git@github.com:socialplanning/oc-tt.git#egg=oc-tt-dev
 -e git+git@github.com:socialplanning/oc-cab.git#egg=oc-cab-dev
 -e git+git@github.com:socialplanning/oc-wp.git#egg=oc-wp-dev
+-e git+git@github.com:socialplanning/oc-svenweb.git#egg=oc-svenweb-dev
 
 five.localsitemanager==0.4
 
