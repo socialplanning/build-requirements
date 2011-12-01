@@ -9,3 +9,4 @@ fassembler:wordpress
 fassembler:opencore
 fassembler:i18ndude
 fassembler:zeo
+fassembler:maildrop
