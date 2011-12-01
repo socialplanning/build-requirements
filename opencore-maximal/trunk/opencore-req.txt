@@ -84,8 +84,10 @@ zinstall_packages=zcmlloader
 # We install listen as an editable checkout, but it might also be in the bundle.
 # So we just remove it from the bundle, to make sure the right listen is used.
 # If it's not present in the bundle, nothing will break, because it's an `rm -rf`.
--e git+git@github.com:socialplanning/opencore-listen.git#egg=opencore-listen.git
+-e git+git@github.com:socialplanning/opencore-listen.git#egg=opencore-listen
 remove_products=listen
+
+-e git+git@github.com:socialplanning/oc-themes-avata.git#egg=oc-themes-avata
 
 -f https://launchpad.net/bzr/2.3
 bzr==2.3.4
