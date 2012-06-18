@@ -33,6 +33,7 @@ Products.CacheSetup==1.2
 Products.GenericSetup==1.4.1
 Products.PageCacheManager==1.2
 Products.PolicyHTTPCacheManager==1.2
+http://pypi.python.org/packages/source/z/zc.queue/zc.queue-1.1.tar.gz#md5=a84dd7dc7b390fd9256c05a18f4b79ea
 
 plone.memoize==1.0.4
 borg.localrole==2.0.1
@@ -87,8 +88,6 @@ zinstall_packages=zcmlloader
 # If it's not present in the bundle, nothing will break, because it's an `rm -rf`.
 -e git+git@github.com:socialplanning/opencore-listen.git#egg=opencore-listen
 remove_products=listen
-
--e git+git@github.com:socialplanning/oc-themes-avata.git#egg=oc-themes-avata
 
 -f https://launchpad.net/bzr/2.3
 bzr==2.3.4
