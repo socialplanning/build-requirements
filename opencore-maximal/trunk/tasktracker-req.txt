@@ -12,11 +12,11 @@ WebOb==1.0.8
 -f http://dist.socialplanning.org/eggs/decorator-2.2.0.zip
 decorator==2.2.0
 
--e git+git@github.com:socialplanning/WSSEAuth.git#egg=WSSEAuth-dev
--e git+git@github.com:socialplanning/CabochonServer.git#egg=CabochonServer-dev
--e git+git@github.com:socialplanning/SupervisorErrorMiddleware.git#egg=SupervisorErrorMiddleware-dev
--e git+git@github.com:socialplanning/TaskTracker.git#egg=TaskTracker-dev
--e git+git@github.com:socialplanning/CabochonClient.git#egg=CabochonClient-dev
+-e git+git://github.com/socialplanning/WSSEAuth.git#egg=WSSEAuth-dev
+-e git+git://github.com/socialplanning/CabochonServer.git#egg=CabochonServer-dev
+-e git+git://github.com/socialplanning/SupervisorErrorMiddleware.git#egg=SupervisorErrorMiddleware-dev
+-e git+git://github.com/socialplanning/TaskTracker.git#egg=TaskTracker-dev
+-e git+git://github.com/socialplanning/CabochonClient.git#egg=CabochonClient-dev
 
 mysql-python
 
