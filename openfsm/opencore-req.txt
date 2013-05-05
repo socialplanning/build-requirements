@@ -43,6 +43,13 @@ five.intid==0.3.0
 
 -e git+git://github.com/socialplanning/oc-js.git#egg=oc-js-dev
 
+-e git+git://github.com/socialplanning/oc-wp.git#egg=oc-wp-dev
+-e git+git://github.com/socialplanning/oc-tt.git#egg=oc-tt-dev
+-e git+git://github.com/socialplanning/oc-svenweb.git#egg=oc-svenweb-dev
+
+-e git+git://github.com/socialplanning/unweb.trusted.git#egg=unweb.trusted-dev
+-e git+git://github.com/socialplanning/openfsm.git#egg=openfsm-dev
+
 plone.fieldsets==1.0
 
 -f http://dist.socialplanning.org/eggs/twill-0.9.tar.gz#egg=twill
