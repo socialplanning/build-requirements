@@ -88,5 +88,5 @@ remove_products=listen
 -f https://launchpad.net/bzr/2.3
 bzr==2.3.4
 #http://launchpad.net/bzr/2.3/2.3.4/+download/bzr-2.3.4.tar.gz#egg=bzr-2.3.4
-SQLAlchemy
--e git+git@github.com:socialplanning/sven.git#egg=sven-dev
+https://pypi.python.org/packages/source/S/SQLAlchemy/SQLAlchemy-0.6.9.tar.gz
+-e git+git://github.com/socialplanning/sven.git#egg=sven-dev
