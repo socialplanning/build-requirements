@@ -77,9 +77,9 @@ SQLObject==0.10.0b2
 -e git+git://github.com/socialplanning/ZCMLLoader.git#egg=ZCMLLoader-dev
 zinstall_packages=zcmlloader
 
-git+git://github.com/socialplanning/Products.OFolder/#egg=Products.OFolder-0.1vendor
-git+git://github.com/socialplanning/Products.MailBoxer/#egg=Products.MailBoxer-0.1vendor
-git+git://github.com/socialplanning/Products.ManageableIndex/#egg=Products.ManageableIndex-0.1vendor
+git+git://github.com/socialplanning/Products.OFolder.git/#egg=Products.OFolder-0.1vendor
+git+git://github.com/socialplanning/Products.MailBoxer.git/#egg=Products.MailBoxer-0.1vendor
+git+git://github.com/socialplanning/Products.ManageableIndex.git/#egg=Products.ManageableIndex-0.1vendor
 
 # We install listen as an editable checkout, but it might also be in the bundle.
 # So we just remove it from the bundle, to make sure the right listen is used.
