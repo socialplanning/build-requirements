@@ -52,8 +52,8 @@ five.intid==0.3.0
 
 plone.fieldsets==1.0
 
--f http://dist.socialplanning.org/eggs/twill-0.9.tar.gz#egg=twill
-twill
+-f http://dist.socialplanning.org/eggs/twill-0.9.tar.gz#egg=twill-0.9
+twill==0.9
 
 plone.mail==0.1dev
 plonelibs==3.0.6.3
