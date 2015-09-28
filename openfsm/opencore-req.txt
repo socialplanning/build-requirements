@@ -13,11 +13,11 @@
 
 http://pypi.python.org/packages/source/r/restclient/restclient-0.10.1.tar.gz
 
-five.localsitemanager==0.4
+http://dist.socialplanning.org/eggs/five.localsitemanager-0.4.tar.gz
 
-plone.app.form==1.0.4
+https://pypi.python.org/packages/source/p/plone.app.form/plone.app.form-1.0.4.tar.gz
 
-lxml==2.2.6
+https://pypi.python.org/packages/source/l/lxml/lxml-2.2.6.tar.gz
 
 #geopy is only needed for the i-think-unused oc-geo plugin .. but PleiadesGeocoder is linked into the bundle and has a hard dependency on it
 # http://dist.socialplanning.org/eggs/geopy-0.93_20071130-py2.4.egg
@@ -37,7 +37,8 @@ borg.localrole==2.0.1
 collective.testing==0.3
 decorator==2.2.0
 feedparser==4.1
-five.intid==0.3.0
+
+https://pypi.python.org/packages/source/f/five.intid/five.intid-0.3.0.tar.gz
 
 -e git+git://github.com/socialplanning/flunc.git#egg=flunc-dev
 
@@ -52,8 +53,7 @@ five.intid==0.3.0
 
 plone.fieldsets==1.0
 
--f http://dist.socialplanning.org/eggs/twill-0.9.tar.gz#egg=twill-0.9
-twill==0.9
+http://darcs.idyll.org/~t/projects/twill-0.9.tar.gz
 
 plone.mail==0.1dev
 plonelibs==3.0.6.3
