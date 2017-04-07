@@ -13,11 +13,11 @@
 
 http://pypi.python.org/packages/source/r/restclient/restclient-0.10.1.tar.gz
 
-http://dist.socialplanning.org/eggs/five.localsitemanager-0.4.tar.gz
+five.localsitemanager==0.4
 
-https://pypi.python.org/packages/source/p/plone.app.form/plone.app.form-1.0.4.tar.gz
+plone.app.form==1.0.4
 
-https://pypi.python.org/packages/source/l/lxml/lxml-2.2.6.tar.gz
+lxml==2.2.6
 
 #geopy is only needed for the i-think-unused oc-geo plugin .. but PleiadesGeocoder is linked into the bundle and has a hard dependency on it
 # http://dist.socialplanning.org/eggs/geopy-0.93_20071130-py2.4.egg
@@ -37,8 +37,7 @@ borg.localrole==2.0.1
 collective.testing==0.3
 decorator==2.2.0
 feedparser==4.1
-
-https://pypi.python.org/packages/source/f/five.intid/five.intid-0.3.0.tar.gz
+five.intid==0.3.0
 
 -e git+git://github.com/socialplanning/flunc.git#egg=flunc-dev
 
@@ -53,7 +52,8 @@ https://pypi.python.org/packages/source/f/five.intid/five.intid-0.3.0.tar.gz
 
 plone.fieldsets==1.0
 
-http://darcs.idyll.org/~t/projects/twill-0.9.tar.gz
+-f http://dist.socialplanning.org/eggs/twill-0.9.tar.gz#egg=twill
+twill==0.9
 
 plone.mail==0.1dev
 plonelibs==3.0.6.3
@@ -71,7 +71,7 @@ uuid==1.30
 
 -e git+git://github.com/socialplanning/libopencore.git#egg=libopencore-dev
 
-threadframe>=0.2
+https://majid.info/python/threadframe/threadframe-0.2.tar.gz
 
 http://pypi.python.org/packages/source/p/pysqlite/pysqlite-2.6.0.tar.gz
 restclient==0.9.8
